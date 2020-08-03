@@ -1,0 +1,103 @@
+"Please update Amasty Base module. Re-upload it and replace all the files.","Please update Amasty Base module. Re-upload it and replace all the files.",module,Amasty_SocialLogin
+"You are now logged out.","You are now logged out.",module,Amasty_SocialLogin
+"My Social Accounts","Профили соцсетей",module,Amasty_SocialLogin
+"Sorry. We cannot find social type. Please try again later.","Sorry. We cannot find social type. Please try again later.",module,Amasty_SocialLogin
+"Sorry. We cannot find your email. Please enter email in your %1 profile.","Sorry. We cannot find your email. Please enter email in your %1 profile.",module,Amasty_SocialLogin
+"Sorry. We cannot connect to this social profile. It is used for another site account.","Sorry. We cannot connect to this social profile. It is used for another site account.",module,Amasty_SocialLogin
+"We can`t get customer email from your social account.","We can`t get customer email from your social account.",module,Amasty_SocialLogin
+"You have successfully logged in using your %1 account.","You have successfully logged in using your %1 account.",module,Amasty_SocialLogin
+"Please check Callback Url in social app configuration","Please check Callback Url in social app configuration",module,Amasty_SocialLogin
+"An unspecified error occurred. Please try again later.","An unspecified error occurred. Please try again later.",module,Amasty_SocialLogin
+"The account is locked.","The account is locked.",module,Amasty_SocialLogin
+"New User","New User",module,Amasty_SocialLogin
+"You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.",module,Amasty_SocialLogin
+"We have created new store account using your email address.","We have created new store account using your email address.",module,Amasty_SocialLogin
+"An unspecified error occurred during creating new customer.","An unspecified error occurred during creating new customer.",module,Amasty_SocialLogin
+"Your account was successfully unlinked.","Your account was successfully unlinked.",module,Amasty_SocialLogin
+"Sorry. We can`t find information about your account","Sorry. We can`t find information about your account",module,Amasty_SocialLogin
+"Additional Social Login package is not installed. Please, run the following command in the SSH: composer require hybridauth/hybridauth ^2.15.1","Additional Social Login package is not installed. Please, run the following command in the SSH: composer require hybridauth/hybridauth ^2.15.1",module,Amasty_SocialLogin
+"Your site is configured to use HTTP connection and Facebook API does not allow it for login. Please configure HTTPS connection for your site.","Your site is configured to use HTTP connection and Facebook API does not allow it for login. Please configure HTTPS connection for your site.",module,Amasty_SocialLogin
+"Unable to save sales with ID %1. Error: %2","Unable to save sales with ID %1. Error: %2",module,Amasty_SocialLogin
+"Unable to save new sales. Error: %1","Unable to save new sales. Error: %1",module,Amasty_SocialLogin
+"Sales with specified ID ""%1"" not found.","Sales with specified ID ""%1"" not found.",module,Amasty_SocialLogin
+"Unable to remove sales with ID %1. Error: %2","Unable to remove sales with ID %1. Error: %2",module,Amasty_SocialLogin
+"Unable to remove sales. Error: %1","Unable to remove sales. Error: %1",module,Amasty_SocialLogin
+"Unable to save social data with ID %1. Error: %2","Unable to save social data with ID %1. Error: %2",module,Amasty_SocialLogin
+"Unable to save new social sata item. Error: %1","Unable to save new social sata item. Error: %1",module,Amasty_SocialLogin
+"Social item with specified ID ""%1"" not found.","Social item with specified ID ""%1"" not found.",module,Amasty_SocialLogin
+"Unable to remove social item with ID %1. Error: %2","Unable to remove social item with ID %1. Error: %2",module,Amasty_SocialLogin
+"Unable to remove social item. Error: %1","Unable to remove social item. Error: %1",module,Amasty_SocialLogin
+Top,Top,module,Amasty_SocialLogin
+Bottom,Bottom,module,Amasty_SocialLogin
+Right,Right,module,Amasty_SocialLogin
+Left,Left,module,Amasty_SocialLogin
+"Login Popup","Login Popup",module,Amasty_SocialLogin
+"Above customer login form","Above customer login form",module,Amasty_SocialLogin
+"Below customer login form","Below customer login form",module,Amasty_SocialLogin
+"Above customer registration form","Above customer registration form",module,Amasty_SocialLogin
+"Below customer registration form","Below customer registration form",module,Amasty_SocialLogin
+"Shopping cart page","Shopping cart page",module,Amasty_SocialLogin
+"Stay on the current page","Stay on the current page",module,Amasty_SocialLogin
+"To Custom Url","To Custom Url",module,Amasty_SocialLogin
+"Refresh Current Page","Refresh Current Page",module,Amasty_SocialLogin
+"Round Buttons","Round Buttons",module,Amasty_SocialLogin
+"Rectangular Buttons","Rectangular Buttons",module,Amasty_SocialLogin
+"Square Buttons","Square Buttons",module,Amasty_SocialLogin
+"Social Login","Social Login",module,Amasty_SocialLogin
+"Top Social Login","Top Social Login",module,Amasty_SocialLogin
+Users:,Users:,module,Amasty_SocialLogin
+"Purchased Items:","Purchased Items:",module,Amasty_SocialLogin
+Amount:,Amount:,module,Amasty_SocialLogin
+"Other connections","Other connections",module,Amasty_SocialLogin
+Users,Users,module,Amasty_SocialLogin
+"Purchased Items","Purchased Items",module,Amasty_SocialLogin
+Amount,Amount,module,Amasty_SocialLogin
+"Social Login Chart","Social Login Chart",module,Amasty_SocialLogin
+"Linked accounts","Linked accounts",module,Amasty_SocialLogin
+Unlink,Unlink,module,Amasty_SocialLogin
+"Link new accounts","Link new accounts",module,Amasty_SocialLogin
+Link,Link,module,Amasty_SocialLogin
+"Link  %1","Link  %1",module,Amasty_SocialLogin
+Login,Login,module,Amasty_SocialLogin
+Register,Register,module,Amasty_SocialLogin
+or,или,module,Amasty_SocialLogin
+"Login with Your Social Profile","Войдите, используя социальные сети",module,Amasty_SocialLogin
+"Login with","Войдите, используя социальные сети",module,Amasty_SocialLogin
+"Sign in with %1","Войти, используя %1",module,Amasty_SocialLogin
+"Continue with %1","Войти через %1",module,Amasty_SocialLogin
+Information,Information,module,Amasty_SocialLogin
+"General Settings","General Settings",module,Amasty_SocialLogin
+"Enable Social Login","Enable Social Login",module,Amasty_SocialLogin
+"Set 'Yes' to allow login via social networks. Set 'No' to disable social login buttons. Note that the AJAX Pop-up can still be applied for standard login and registration.","Set 'Yes' to allow login via social networks. Set 'No' to disable social login buttons. Note that the AJAX Pop-up can still be applied for standard login and registration.",module,Amasty_SocialLogin
+"Add Social Login to","Add Social Login to",module,Amasty_SocialLogin
+"Choose where to place the social login.","Choose where to place the social login.",module,Amasty_SocialLogin
+"Login Buttons Shape","Login Buttons Shape",module,Amasty_SocialLogin
+"Enable Ajax Popup","Enable Ajax Popup",module,Amasty_SocialLogin
+"Set 'Yes' to activate AJAX Pop-up for the registration and login.","Set 'Yes' to activate AJAX Pop-up for the registration and login.",module,Amasty_SocialLogin
+"Login Buttons Position","Login Buttons Position",module,Amasty_SocialLogin
+"Please configure the Social Login Buttons position in the Ajax pop-up. Note that the bottom position is the only available option for the registration pop-up.","Please configure the Social Login Buttons position in the Ajax pop-up. Note that the bottom position is the only available option for the registration pop-up.",module,Amasty_SocialLogin
+"Redirect after Login","Redirect after Login",module,Amasty_SocialLogin
+"Redirect Url after Login","Redirect Url after Login",module,Amasty_SocialLogin
+"Select the behavior and the page to direct customers after their social login.","Select the behavior and the page to direct customers after their social login.",module,Amasty_SocialLogin
+Google,Google,module,Amasty_SocialLogin
+Enabled,Enabled,module,Amasty_SocialLogin
+"See how to configure app <a target=""_blank"" href=""https://amasty.com/docs/doku.php?id=magento_2:social_login#google"">here</a>.","See how to configure app <a target=""_blank"" href=""https://amasty.com/docs/doku.php?id=magento_2:social_login#google"">here</a>.",module,Amasty_SocialLogin
+"Consumer Key (API Key)","Consumer Key (API Key)",module,Amasty_SocialLogin
+"Consumer Secret (API Secret)","Consumer Secret (API Secret)",module,Amasty_SocialLogin
+"Valid Redirect URI","Valid Redirect URI",module,Amasty_SocialLogin
+"Sort Order","Sort Order",module,Amasty_SocialLogin
+Facebook,Facebook,module,Amasty_SocialLogin
+Twitter,Twitter,module,Amasty_SocialLogin
+"See how to configure app <a target=""_blank"" href=""https://amasty.com/docs/doku.php?id=magento_2:social_login#twitter"">here</a>.","See how to configure app <a target=""_blank"" href=""https://amasty.com/docs/doku.php?id=magento_2:social_login#twitter"">here</a>.",module,Amasty_SocialLogin
+"Valid Callback URL","Valid Callback URL",module,Amasty_SocialLogin
+Instagram,Instagram,module,Amasty_SocialLogin
+"See how to configure app <a target=""_blank"" href=""https://amasty.com/docs/doku.php?id=magento_2:social_login#instagram"">here</a>.","See how to configure app <a target=""_blank"" href=""https://amasty.com/docs/doku.php?id=magento_2:social_login#instagram"">here</a>.",module,Amasty_SocialLogin
+LinkedIn,LinkedIn,module,Amasty_SocialLogin
+"See how to configure app <a target=""_blank"" href=""https://amasty.com/docs/doku.php?id=magento_2:social_login#linkedin"">here</a>.","See how to configure app <a target=""_blank"" href=""https://amasty.com/docs/doku.php?id=magento_2:social_login#linkedin"">here</a>.",module,Amasty_SocialLogin
+Amazon,Amazon,module,Amasty_SocialLogin
+"See how to configure app <a target=""_blank"" href=""https://amasty.com/docs/doku.php?id=magento_2:social_login#amazon"">here</a>.","See how to configure app <a target=""_blank"" href=""https://amasty.com/docs/doku.php?id=magento_2:social_login#amazon"">here</a>.",module,Amasty_SocialLogin
+Paypal,Paypal,module,Amasty_SocialLogin
+"See how to configure app <a target=""_blank"" href=""https://amasty.com/docs/doku.php?id=magento_2:social_login#paypal"">here</a>.","See how to configure app <a target=""_blank"" href=""https://amasty.com/docs/doku.php?id=magento_2:social_login#paypal"">here</a>.",module,Amasty_SocialLogin
+Twitch,Twitch,module,Amasty_SocialLogin
+"See how to configure app <a target=""_blank"" href=""https://amasty.com/docs/doku.php?id=magento_2:social_login#twitch"">here</a>.","See how to configure app <a target=""_blank"" href=""https://amasty.com/docs/doku.php?id=magento_2:social_login#twitch"">here</a>.",module,Amasty_SocialLogin
+"Login type","Login type",module,Amasty_SocialLogin
