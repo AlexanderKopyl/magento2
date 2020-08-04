@@ -235,6 +235,7 @@ return [
         'Amazon_Core' => 1,
         'Amazon_Login' => 1,
         'Amazon_Payment' => 1,
+        'CodeCustom_Payments' => 1,
         'Developer_Translit' => 1,
         'Dotdigitalgroup_Email' => 1,
         'Dotdigitalgroup_Chat' => 1,
