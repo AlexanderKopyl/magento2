@@ -238,6 +238,7 @@ return [
         'Developer_Translit' => 1,
         'Dotdigitalgroup_Email' => 1,
         'Dotdigitalgroup_Chat' => 1,
+        'Firebear_ImportExport' => 1,
         'Klarna_Core' => 1,
         'Klarna_Ordermanagement' => 1,
         'Klarna_Kp' => 1,
@@ -246,6 +247,7 @@ return [
         'Temando_ShippingRemover' => 1,
         'Vertex_Tax' => 1,
         'Vertex_AddressValidation' => 1,
+        'Wayforpay_Payment' => 1,
         'Yotpo_Yotpo' => 1
     ]
 ];

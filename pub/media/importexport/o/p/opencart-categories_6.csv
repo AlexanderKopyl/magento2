@@ -1,0 +1,191 @@
+name,url_key,path,active,is_anchor,include_in_menu
+Товары для собак,tovary-dlya-sobak,,1,1,1
+Товары для кошек,tovary-dlya-koshek,,1,1,1
+Товары для грызунов,tovary-dlya-gryzunov,,1,1,1
+Клетки для грызунов,kletki-i-aksessuary-2,Товары для грызунов,1,1,1
+Корм для грызунов,korma-i-podkormki-4,Товары для грызунов,1,1,1
+Подстилки для грызунов,podstilki-dlya-gryzunov,Товары для грызунов,1,1,1
+Товары для рыб,tovary-dlya-ryb,,1,1,1
+Осветительное оборудование для аквариума,osvetitelnoe-oborudovanie,Товары для рыб,1,1,1
+Подставки и тумбы для аквариума,podstavki-i-tumby,Товары для рыб,1,1,1
+Лампы для аквариума,lampy-dlya-akvariuma,Товары для рыб,1,1,1
+Кормушки для рыб,kormushki-dlya-ryb,Товары для рыб,1,1,1
+Корм для рыб,korma-i-podkormki,Товары для рыб,1,1,1
+Компрессоры для аквариумов,kompressory,Товары для рыб,1,1,1
+"Препараты для контроля воды, лечения, удобрения",preparaty-dlya-kontrolya-vody-lecheniya-udobreniya,Товары для рыб,1,1,1
+Наполнители для фильтров аквариума,filtruyushie-napolniteli,Товары для рыб,1,1,1
+Фильтры для аквариума,filtry-dlya-akvariuma,Товары для рыб,1,1,1
+Запасные части к аквариумному оборудованию,zapasnye-chasti-k-akvaruimnomu-oborudovaniyu,Товары для рыб,1,1,1
+Грунт для аквариума,grunt-dlya-akvariuma,Товары для рыб,1,1,1
+Аквариумы,akvariumy,Товары для рыб,1,1,1
+Аквариумные растения,akvariumnye-rasteniya,Товары для рыб,1,1,1
+Аквариумные нагреватели,akvariumnye-nagrevateli,Товары для рыб,1,1,1
+Аксессуары для аквариума,akvariumnye-aksessuary,Товары для рыб,1,1,1
+CO2 оборудование для аквариума,co2-oborudovanie,Товары для рыб,1,1,1
+Охладители для аквариума,ohladiteli,Товары для рыб,1,1,1
+Морская соль для аквариума,sol,Товары для рыб,1,1,1
+Декорации для аквариума,dekoracii-dlya-akvariuma,Товары для рыб,1,1,1
+Товары для птиц,tovary-dlya-ptic,,1,1,1
+Клетки для птиц,kletki-i-aksessuary,Товары для птиц,1,1,1
+Корм для птиц,korma-i-podkormki-dlya-ptic,Товары для птиц,1,1,1
+Товары для рептилий,tovary-dlya-terrariumistiki,,1,1,1
+Террариумы,terrariumy,Товары для рептилий,1,1,1
+Тумбы для террариума,tumby-dlya-terrariumov,Товары для рептилий,1,1,1
+Освещение для террариума,osveshenie-dlya-terrariuma,Товары для рептилий,1,1,1
+Оборудование для террариума,oborudovanie-dlya-terrariuma,Товары для рептилий,1,1,1
+Лампы для террариума,lampy-dlya-terrariuma,Товары для рептилий,1,1,1
+Корм для рептилий,korma-i-podkormki-3,Товары для рептилий,1,1,1
+Декорации для террариумов,dekoracii-dlya-terrariumov,Товары для рептилий,1,1,1
+Другие товары,drugie-tovary,,1,1,1
+Спальные места и переноски,spalnye-mesta-i-perenoski,,1,1,1
+Товары для лошадей,tovary-dlya-loshadej,,1,1,1
+Товары для хорьков,tovary-dlya-horkov,,1,1,1
+Средства для коррекции поведения животных,sredstva-dlya-korrekcii-povedeniya-zhivotnyh,,1,1,1
+Препараты для защиты и лечения рептилий,preparaty-dlya-zashity-i-lecheniya-reptilij-1,Товары для рептилий,1,1,1
+Обогреватели для террариума,obogrevateli-dlya-terrariuma-1,Товары для рептилий,1,1,1
+Грунт для террариума,grunt-dlya-terrariuma,Товары для рептилий,1,1,1
+Товары для пруда,tovary-dlya-prudov,,1,1,1
+Корм для прудовых рыб,korm-dlya-prudovyh-ryb,Товары для пруда,1,1,1
+Декорации для пруда,dekoracii-dlya-pruda,Товары для пруда,1,1,1
+Компрессоры для пруда,kompressory-dlya-prudov,Товары для пруда,1,1,1
+Нагреватели для пруда,nagrevateli-dlya-pruda,Товары для пруда,1,1,1
+Стерилизаторы для пруда,sterilizatory-dlya-pruda,Товары для пруда,1,1,1
+Лампы для прудовых стерилизаторов,lampy-dlya-prudovyh-sterilizatorov,Товары для пруда,1,1,1
+Корм для раков и креветок,korm-dlya-rakov-i-krevetok,Товары для рыб,1,1,1
+Уход за водой в пруду,uhod-za-vodoj-v-prudu,Товары для пруда,1,1,1
+Аксессуары для пруда,aksessuary-dlya-pruda,Товары для пруда,1,1,1
+Фильтры для пруда,filtry-dlya-pruda,Товары для пруда,1,1,1
+Помпы и насосы для фонтанов и прудов,pompy-i-nasosy-dlya-fontanov-i-prudov,Товары для пруда,1,1,1
+Наполнители для прудовых фильтров,napolniteli-dlya-prudovyh-filtrov,Товары для пруда,1,1,1
+Аксессуары для террариума,aksessuary-dlya-terrariuma,Товары для рептилий,1,1,1
+Ультрафиолетовые стерилизаторы для аквариумов,ultrafioletovye-sterilizatory,Товары для рыб,1,1,1
+Аксессуары для груминга животных,aksessuary-dlia-zhivotnykh,Товары для груминга,1,1,1
+Ножи для машинок для стрижки животных,nozhi-dlya-mashinok,Товары для груминга,1,1,1
+Косметика для животных,kosmetika-dlia-zhivotnykh,Товары для груминга,1,1,1
+Фены для груминга,feny-dlia-grumminga,Товары для груминга,1,1,1
+Ножницы для груминга,nozhnitcy-dlia-grumminga,Товары для груминга,1,1,1
+Косметика Iv San Bernard,kosmetika-Iv-san-Bernard,Товары для груминга,1,1,1
+Креативный груминг,kreativnyi-grumming,Товары для груминга,1,1,1
+Оборудование для груминга,oborudovanie-dlia-grumminga,Товары для груминга,1,1,1
+Щетки для животных,shchetki,Аксессуары для груминга животных,1,1,1
+Маникюрный инструмент для животных,manikiurnyi-instrument,Аксессуары для груминга животных,1,1,1
+Пуходерки - сликеры,puhoderki-slikery,Аксессуары для груминга животных,1,1,1
+Расчески для животных,rascheski,Аксессуары для груминга животных,1,1,1
+Рейки колтунорезы,reiki-koltunorezy,Аксессуары для груминга животных,1,1,1
+Резинки и бумага для папильоток,rezinki-i-bumaga-dlia-papilotok,Аксессуары для груминга животных,1,1,1
+Одежда и аксессуары для грумеров,odezhda-i-aksessuary-dlia-grumerov,Аксессуары для груминга животных,1,1,1
+Ножи для тримминга,nozhi-dlia-trimminga,Аксессуары для груминга животных,1,1,1
+Аксессуары для тримминга,aksessuary-dlia-trimminga,Аксессуары для груминга животных,1,1,1
+Петли - удавки для груминг стола,petli-udavki-dlia-gruming-stola,Аксессуары для груминга животных,1,1,1
+"Пудры, мелки для груминга",pudry-melki,Аксессуары для груминга животных,1,1,1
+Фурминаторы,furminatory,Аксессуары для груминга животных,1,1,1
+Учебные материалы по грумингу,uchebnye-materialy,Аксессуары для груминга животных,1,1,1
+Машинки для груминга,mashinki-dlia-grumminga,Товары для груминга,1,1,1
+Стандартные ножи для машинок для груминга,nozhi-standartnye,Ножи для машинок для стрижки животных,1,1,1
+Ножи для триммеров,nozhi-dlia-trimmerov,Ножи для машинок для стрижки животных,1,1,1
+Ножи А5 для машинок для стрижки животных,nozhi-a5,Ножи для машинок для стрижки животных,1,1,1
+Средства для гигиены животных,sredstva-dlia-gigieny-zhivotnykh,Косметика для животных,1,1,1
+Средства для ухода за животными,sredstva-dlia-uhoda-za-zhivotnymi,Косметика для животных,1,1,1
+Шампуни и кондиционеры для животных,shampuni-i-konditcionery-dlia-zhivotnykh,Косметика для животных,1,1,1
+Парфюмерия для животных,parfiumeriia-dlia-zhivotnykh,Косметика для животных,1,1,1
+Профессиональная мойка животных,professionalnaia-moika-zhivotnykh,Косметика для животных,1,1,1
+Стационарные фены для груминга,feny-statcionarnye,Фены для груминга,1,1,1
+Аксессуары для фенов для груминга,aksessuary-dlia-fenov,Фены для груминга,1,1,1
+Классические фены для груминга,feny-classicheskie,Фены для груминга,1,1,1
+Дорожные фены для груминга,feny-dorozhnye,Фены для груминга,1,1,1
+Футляры для ножниц,futliary-dlia-nozhnitc,Ножницы для груминга,1,1,1
+Ножницы контуринговые для груминга,nozhnitcy-konturingovye,Ножницы для груминга,1,1,1
+Рабочие ножницы для груминга,nozhnitcy-rabochie,Ножницы для груминга,1,1,1
+Филировочные ножницы для груминга,nozhnitcy-filirovochnye,Ножницы для груминга,1,1,1
+Средства для ухода за ножницами,sredstva-dlia-uhoda-za-nozhnitcami,Ножницы для груминга,1,1,1
+Линия Passione Nera,leeniia-passione-nera,Косметика Iv San Bernard,1,1,1
+Линия Zeolithe,leeniia-zeolithe,Косметика Iv San Bernard,1,1,1
+Линия Parfums,leeniia-parfums,Косметика Iv San Bernard,1,1,1
+Линия Mineral Red,leeniia-mineral-red,Косметика Iv San Bernard,1,1,1
+Линия Traditional Plus,leeniia-traditional-plus,Косметика Iv San Bernard,1,1,1
+Линия Traditional,leeniia-traditional,Косметика Iv San Bernard,1,1,1
+Линия Caviar,leeniia-caviar,Косметика Iv San Bernard,1,1,1
+Линия Atami,leeniia-atami,Косметика Iv San Bernard,1,1,1
+Линия Technique,leeniia-technique,Косметика Iv San Bernard,1,1,1
+Линия Mineral Complex,leeniia-mineral-complex,Косметика Iv San Bernard,1,1,1
+Линия Fruit of the Groomer,leeniia-fruit-of-the-groomer,Косметика Iv San Bernard,1,1,1
+Аксессуары для креативного груминга,aksessuary-dlia-kreativnogo-gruminga,Креативный груминг,1,1,1
+Краски для животных,kraski-dlia-zhivotnykh,Креативный груминг,1,1,1
+Гели и блестки для животных,geli-i-blestki-dlia-zhivotnykh,Креативный груминг,1,1,1
+Мелки и пудры для животных,melki-i-pudry-dlia-zhivotnykh,Креативный груминг,1,1,1
+Антицарапки для когтей,antitcarapki-dlia-kogtei,Креативный груминг,1,1,1
+Кронштейны для груминга,kronshteiny-dlia-gruminga,Оборудование для груминга,1,1,1
+Столы для груминга,stoly-dlia-gruminga,Оборудование для груминга,1,1,1
+Ванны для груминга,vanny-dlia-gruminga,Оборудование для груминга,1,1,1
+Тележки для грумер салонов,telezhki-dlia-salonov,Оборудование для груминга,1,1,1
+Товары для груминга,tovary-dlia-grumminga,,1,1,1
+Витамины для животных,vitaminy-dlia-zhivotnyh,,1,1,1
+Игрушки для животных,igrushki-dlia-zhivotnyh,,1,1,1
+Аксессуары для животных,aksessuary-dlia-zhivotnyh,,1,1,1
+Одежда для животных,odezhda-dlia-zhivotnyh,,1,1,1
+"Туалеты, наполнители и аксессуары",tualety-napolniteli-i-aksessuary,,1,1,1
+Будки и вольеры,budki-i-voliery,,1,1,1
+Средства по уходу за животными,sredstva-po-uhodu-za-zhivotnymi,,1,1,1
+Ветеринарные препараты,veterinarnye-preparatyy,,1,1,1
+Комбикорма для животных,kombikorma-dlya-zhivotnyh,,1,1,1
+Комбикорм для птиц,kombikorm-dlya-ptic,Комбикорма для животных,1,1,1
+Комбикорм для свиней,kombikorm-dlya-sviney,Комбикорма для животных,1,1,1
+Комбикорм для кроликов,kombikorm-dlya-krolikov,Комбикорма для животных,1,1,1
+Комбикорм для рыбы,kombikorm-dlya-ryby,Комбикорма для животных,1,1,1
+Комбикорм для лошадей,kombikorm-dlya-loshadey,Комбикорма для животных,1,1,1
+Помпы для аквариума,pompy-dlia-akvariuma,Товары для рыб,1,1,1
+Клетки для хорьков,kletki-dlya-xorkov,Товары для хорьков,1,1,1
+Корм для хорьков,korm-dlia-horkov,Товары для хорьков,1,1,1
+Уцененный товар,reject,,1,1,1
+Освещение для пруда,osveshchenie-dlia-pruda,Товары для пруда,1,1,1
+Корм для собак,korma-i-podkormki-dlya-sobak,,1,1,1
+Корм для кошек,korma-i-podkormki-6,,1,1,1
+Запасные части к оборудованию для пруда,,,1,1,1
+"Дача, сад, огород",dacha-sad-ogorod,,1,1,1
+Садовая техника,sadovaya-tehnika,,1,1,1
+Газонокосилки,gazonokosilky,,1,1,1
+Триммеры и мотокосы,trimmery-i-motokosy,,1,1,1
+Кусторезы,kustorezy,,1,1,1
+Цепные пилы,cepnye-pily,,1,1,1
+Культиваторы и мотоблоки,kuplivatory-i-motobloky,,1,1,1
+Воздуходувы,vozduhoduvy,,1,1,1
+Аксессуары для садовой техники,aksessuary-dlya-sodovoi-tehniky,,1,1,1
+Запчасти для цепных пил,zapchazti-dlya-cepnyh-pil,,1,1,1
+Системы полива,sistemy-poliva,,1,1,1
+Шланги,shlangi,,1,1,1
+Коннекторы для систем полива,konnektory-dlya-sistem-poliva,,1,1,1
+Насадки,nasadki,,1,1,1
+Оросители,orositely,,1,1,1
+Насосы и помпы,nasosy-i-pompy,,1,1,1
+Семена и удобрения,semena-i-udobreniya,,1,1,1
+Удобрения,udobreniya,,1,1,1
+Садовый инвентарь,sadovuy-inventar,,1,1,1
+Ручной садовый инструмент,ruchnoi-sadovyi-inventar,,1,1,1
+Опрыскиватели,opryskivateli,,1,1,1
+Тачки,tachki,,1,1,1
+Теплицы,teplitsy,,1,1,1
+Сетки и укрывные материалы,setki-i-ukryvnyye-materialy,,1,1,1
+Садовые ограждения,sadovye-ograzhdeniya,,1,1,1
+Садовый декор,sadovuy-dekor,,1,1,1
+Дренажные системы,drenazhnue-sistemy,,1,1,1
+Снегоуборочная техника и инвентарь,snegouborochnaya-tekhnika-i-inventar,,1,1,1
+Снегоуборочная техника,snegouborochnaya-tekhnika,,1,1,1
+Лопаты для уборки снега,lopaty-dlya-uborki-snega,,1,1,1
+Садовые принадлежности,sadovye-prinadlezhnosti,,1,1,1
+Благоустройство территории,blagoustroistvo-territoriy,,1,1,1
+Уличные урны,ulichnue-urny,,1,1,1
+Клубни и луковицы,klubny-i-lukovicy,,1,1,1
+Фильтры для воды,filtry-dlya-vody,,1,1,1
+Системы обратного осмоса,filtry-obratnogo-osmosa,,1,1,1
+Фильтры для питьевой воды,filtry-dlya-pitevoi-vody,,1,1,1
+Фильтры-кувшины для воды,filtry-kuvshuny,,1,1,1
+Проточные фильтры для воды,protochnye-filtry-dlya-vody,,1,1,1
+Сменные элементы и комплектующие,komplektuyushie-dlya-vodyanyh-filtrov,,1,1,1
+Сменные элементы для фильтров кувшинов,komplektuyushie-dlya-filtrov-kuvshinov,,1,1,1
+Комплектующие для систем обратного осмоса,komplektuyushie-dlya-system-osmosa,,1,1,1
+Сменные элементы для фильтров от накипи,komplektuyushie-dlya-filtrov-ot-nakipy,,1,1,1
+Сменные элементы для проточных фильтров,komplektuyushie-dlya-protochnyh-filtrov,,1,1,1
+Бытовые фильтры для воды,bytovie-filtry-dlya-vody,,1,1,1
+Фильтры от накипи,filtry-ot-nakipy,,1,1,1
+Фильтры механической очистки,filtry-mehanicheskoy-ochistky,,1,1,1
+Грунт для террариума,,,,,
