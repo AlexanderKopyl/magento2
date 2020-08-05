@@ -13,7 +13,9 @@
     "require": {
         "box/spout": "~2.7",
         "liqpay/liqpay": "^1.2",
-        "magento/product-community-edition": "2.3.5-p2"
+        "magento/product-community-edition": "2.3.5-p2",
+        "swissup/argento-m2": "^1.19",
+        "swissup/module-marketplace": "^1.7"
     },
     "require-dev": {
         "allure-framework/allure-phpunit": "~1.2.0",
@@ -71,6 +73,10 @@
         "0": {
             "type": "composer",
             "url": "https://repo.magento.com/"
+        },
+        "swissuplabs": {
+            "type": "composer",
+            "url": "https://ci.swissuplabs.com/api/packages.json"
         }
     },
     "extra": {
