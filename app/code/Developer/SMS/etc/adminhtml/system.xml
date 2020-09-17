@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config:etc/system_file.xsd">
+    <system>
+        <tab id="sms_tab" translate="label" sortOrder="1000000">
+            <label>SMS alert</label>
+        </tab>
+        <section id="sms_alert" translate="label" type="text" showInDefault="1" showInWebsite="1" showInStore="1">
+            <class>separator-top</class>
+            <label>SMS alert options</label>
+            <tab>sms_tab</tab>
+            <resource>SMSAlert::config</resource>
+            <group id="alert_settings" translate="label" type="text" sortOrder="1" showInDefault="1" showInWebsite="0" showInStore="0">
+                <label>Action SendPuls</label>
+                <field id="action" translate="label" type="text" sortOrder="20" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Action in Send-puls</label>
+                    <validate>required-entry</validate>
+                </field>
+            </group>
+            <group id="alert_message" translate="label" type="text" sortOrder="10" showInDefault="1" showInWebsite="1" showInStore="1">
+                <label>Message</label>
+                <field id="alert_area" translate="label" type="textarea" sortOrder="1" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>SMS message</label>
+                    <validate>required-entry</validate>
+                    <comment>Use this variables in template:
+                        {CUSTOMER-NAME}, {CUSTOMER-EMAIL}, {ORDER-NUMBER}, {ORDER-TOTAL}, {ORDER-STATUS}, {CARRIER-NAME}, {PAYMENT-NAME}</comment>
+                </field>
+            </group>
+        </section>
+    </system>
+</config>

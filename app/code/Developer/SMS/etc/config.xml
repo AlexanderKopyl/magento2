@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <sms_alert>
+            <alert_message>
+                <alert_area>Nomer Vashego zakaza {ORDER-NUMBER} V svyazi s karantinom obrabotka mozhet zanyat do 24 chasov, spasibo za ponimanie!</alert_area>
+            </alert_message>
+        </sms_alert>
+    </default>
+</config>
