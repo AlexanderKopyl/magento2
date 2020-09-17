@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "dbef1f4081ce8083c31273e96927e78c",
+    "content-hash": "61adf4650c482cd37f2411101ae3980b",
     "packages": [
         {
             "name": "amzn/amazon-pay-and-login-magento-2-module",
@@ -779,6 +779,20 @@
                 "autoload",
                 "dependency",
                 "package"
+            ],
+            "funding": [
+                {
+                    "url": "https://packagist.com",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/composer",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/composer/composer",
+                    "type": "tidelift"
+                }
             ],
             "time": "2020-08-03T09:35:19+00:00"
         },
@@ -1606,63 +1620,6 @@
                 "url"
             ],
             "time": "2019-07-01T23:21:34+00:00"
-        },
-        {
-            "name": "intervention/httpauth",
-            "version": "3.0.1",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/Intervention/httpauth.git",
-                "reference": "825202e88c0918f5249bd5af6ff1fb8ef6e3271e"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/Intervention/httpauth/zipball/825202e88c0918f5249bd5af6ff1fb8ef6e3271e",
-                "reference": "825202e88c0918f5249bd5af6ff1fb8ef6e3271e",
-                "shasum": ""
-            },
-            "require": {
-                "php": "^7.2"
-            },
-            "require-dev": {
-                "phpstan/phpstan": "^0.12.11",
-                "phpunit/phpunit": "^8.0"
-            },
-            "type": "library",
-            "extra": {
-                "laravel": {
-                    "providers": [
-                        "Intervention\\HttpAuth\\Laravel\\HttpAuthServiceProvider"
-                    ],
-                    "aliases": {
-                        "HttpAuth": "Intervention\\HttpAuth\\Laravel\\Facades\\HttpAuth"
-                    }
-                }
-            },
-            "autoload": {
-                "psr-4": {
-                    "Intervention\\HttpAuth\\": "src/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Oliver Vogel",
-                    "email": "oliver@olivervogel.com",
-                    "homepage": "https://olivervogel.com/"
-                }
-            ],
-            "description": "HTTP authentication (Basic & Digest) including ServiceProviders for easy Laravel integration",
-            "homepage": "https://github.com/Intervention/httpauth",
-            "keywords": [
-                "Authentication",
-                "http",
-                "laravel"
-            ],
-            "time": "2020-03-09T16:18:28+00:00"
         },
         {
             "name": "justinrainbow/json-schema",
@@ -2596,55 +2553,6 @@
             "time": "2020-03-23T15:28:28+00:00"
         },
         {
-            "name": "laminas/laminas-dom",
-            "version": "2.7.2",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/laminas/laminas-dom.git",
-                "reference": "631fa74ae6f68e9019b73512f1b3b139d43f3572"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/laminas/laminas-dom/zipball/631fa74ae6f68e9019b73512f1b3b139d43f3572",
-                "reference": "631fa74ae6f68e9019b73512f1b3b139d43f3572",
-                "shasum": ""
-            },
-            "require": {
-                "laminas/laminas-zendframework-bridge": "^1.0",
-                "php": "^5.6 || ^7.0"
-            },
-            "replace": {
-                "zendframework/zend-dom": "self.version"
-            },
-            "require-dev": {
-                "laminas/laminas-coding-standard": "~1.0.0",
-                "phpunit/phpunit": "^5.7.23 || ^6.4.3"
-            },
-            "type": "library",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "2.7.x-dev",
-                    "dev-develop": "2.8.x-dev"
-                }
-            },
-            "autoload": {
-                "psr-4": {
-                    "Laminas\\Dom\\": "src/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "BSD-3-Clause"
-            ],
-            "description": "provides tools for working with DOM documents and structures",
-            "homepage": "https://laminas.dev",
-            "keywords": [
-                "dom",
-                "laminas"
-            ],
-            "time": "2019-12-31T16:43:02+00:00"
-        },
-        {
             "name": "laminas/laminas-escaper",
             "version": "2.6.1",
             "source": {
@@ -3411,16 +3319,16 @@
         },
         {
             "name": "laminas/laminas-mail",
-            "version": "2.12.0",
+            "version": "2.12.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laminas/laminas-mail.git",
-                "reference": "5e8bc77db515c2a207ee25df5f3464f121daf225"
+                "reference": "77b4ea7c3d58f5f8858e638a6f809cc6cfdd7f9e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laminas/laminas-mail/zipball/5e8bc77db515c2a207ee25df5f3464f121daf225",
-                "reference": "5e8bc77db515c2a207ee25df5f3464f121daf225",
+                "url": "https://api.github.com/repos/laminas/laminas-mail/zipball/77b4ea7c3d58f5f8858e638a6f809cc6cfdd7f9e",
+                "reference": "77b4ea7c3d58f5f8858e638a6f809cc6cfdd7f9e",
                 "shasum": ""
             },
             "require": {
@@ -3449,10 +3357,6 @@
             },
             "type": "library",
             "extra": {
-                "branch-alias": {
-                    "dev-master": "2.12.x-dev",
-                    "dev-develop": "2.13.x-dev"
-                },
                 "laminas": {
                     "component": "Laminas\\Mail",
                     "config-provider": "Laminas\\Mail\\ConfigProvider"
@@ -3473,7 +3377,13 @@
                 "laminas",
                 "mail"
             ],
-            "time": "2020-07-30T16:09:35+00:00"
+            "funding": [
+                {
+                    "url": "https://funding.communitybridge.org/projects/laminas-project",
+                    "type": "community_bridge"
+                }
+            ],
+            "time": "2020-08-05T15:27:27+00:00"
         },
         {
             "name": "laminas/laminas-math",
@@ -13800,167 +13710,6 @@
             "time": "2020-05-19T23:25:07+00:00"
         },
         {
-            "name": "marc1706/fast-image-size",
-            "version": "v1.1.6",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/marc1706/fast-image-size.git",
-                "reference": "3a3a2b036be20f43fa06ce00dfa754df503e6684"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/marc1706/fast-image-size/zipball/3a3a2b036be20f43fa06ce00dfa754df503e6684",
-                "reference": "3a3a2b036be20f43fa06ce00dfa754df503e6684",
-                "shasum": ""
-            },
-            "require": {
-                "ext-mbstring": "*",
-                "php": ">=5.3.0"
-            },
-            "require-dev": {
-                "phpunit/phpunit": "^4.8"
-            },
-            "type": "library",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "1.1.x-dev"
-                }
-            },
-            "autoload": {
-                "psr-4": {
-                    "FastImageSize\\": "lib",
-                    "FastImageSize\\tests\\": "tests"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Marc Alexander",
-                    "email": "admin@m-a-styles.de",
-                    "homepage": "https://www.m-a-styles.de",
-                    "role": "Developer"
-                }
-            ],
-            "description": "fast-image-size is a PHP library that does almost everything PHP's getimagesize() does but without the large overhead of downloading the complete file.",
-            "homepage": "https://www.m-a-styles.de",
-            "keywords": [
-                "fast",
-                "getimagesize",
-                "image",
-                "imagesize",
-                "php",
-                "size"
-            ],
-            "time": "2019-12-07T08:02:07+00:00"
-        },
-        {
-            "name": "marcusschwarz/lesserphp",
-            "version": "v0.5.4",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/MarcusSchwarz/lesserphp.git",
-                "reference": "3a0f5ae0d63cbb661b5f4afd2f96875e73b3ad7e"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/MarcusSchwarz/lesserphp/zipball/3a0f5ae0d63cbb661b5f4afd2f96875e73b3ad7e",
-                "reference": "3a0f5ae0d63cbb661b5f4afd2f96875e73b3ad7e",
-                "shasum": ""
-            },
-            "require-dev": {
-                "phpunit/phpunit": "~4.3"
-            },
-            "bin": [
-                "plessc"
-            ],
-            "type": "library",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "0.5.1-dev"
-                }
-            },
-            "autoload": {
-                "classmap": [
-                    "lessc.inc.php"
-                ]
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT",
-                "GPL-3.0"
-            ],
-            "authors": [
-                {
-                    "name": "Leaf Corcoran",
-                    "email": "leafot@gmail.com",
-                    "homepage": "http://leafo.net"
-                },
-                {
-                    "name": "Marcus Schwarz",
-                    "email": "github@maswaba.de",
-                    "homepage": "https://www.maswaba.de"
-                }
-            ],
-            "description": "lesserphp is a compiler for LESS written in PHP based on leafo's lessphp.",
-            "homepage": "http://leafo.net/lessphp/",
-            "time": "2020-01-19T19:18:49+00:00"
-        },
-        {
-            "name": "mobiledetect/mobiledetectlib",
-            "version": "2.8.34",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/serbanghita/Mobile-Detect.git",
-                "reference": "6f8113f57a508494ca36acbcfa2dc2d923c7ed5b"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/serbanghita/Mobile-Detect/zipball/6f8113f57a508494ca36acbcfa2dc2d923c7ed5b",
-                "reference": "6f8113f57a508494ca36acbcfa2dc2d923c7ed5b",
-                "shasum": ""
-            },
-            "require": {
-                "php": ">=5.0.0"
-            },
-            "require-dev": {
-                "phpunit/phpunit": "~4.8.35||~5.7"
-            },
-            "type": "library",
-            "autoload": {
-                "classmap": [
-                    "Mobile_Detect.php"
-                ],
-                "psr-0": {
-                    "Detection": "namespaced/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Serban Ghita",
-                    "email": "serbanghita@gmail.com",
-                    "homepage": "http://mobiledetect.net",
-                    "role": "Developer"
-                }
-            ],
-            "description": "Mobile_Detect is a lightweight PHP class for detecting mobile devices. It uses the User-Agent string combined with specific HTTP headers to detect the mobile environment.",
-            "homepage": "https://github.com/serbanghita/Mobile-Detect",
-            "keywords": [
-                "detect mobile devices",
-                "mobile",
-                "mobile detect",
-                "mobile detector",
-                "php mobile detect"
-            ],
-            "time": "2019-09-18T18:44:20+00:00"
-        },
-        {
             "name": "monolog/monolog",
             "version": "1.25.5",
             "source": {
@@ -14036,170 +13785,6 @@
                 "psr-3"
             ],
             "time": "2020-07-23T08:35:51+00:00"
-        },
-        {
-            "name": "mrclay/jsmin-php",
-            "version": "2.4.0",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/mrclay/jsmin-php.git",
-                "reference": "bb05febc9440852d39899255afd5569b7f21a72c"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/mrclay/jsmin-php/zipball/bb05febc9440852d39899255afd5569b7f21a72c",
-                "reference": "bb05febc9440852d39899255afd5569b7f21a72c",
-                "shasum": ""
-            },
-            "require": {
-                "ext-pcre": "*",
-                "php": ">=5.3.0"
-            },
-            "require-dev": {
-                "phpunit/phpunit": "4.2"
-            },
-            "type": "library",
-            "autoload": {
-                "psr-0": {
-                    "JSMin\\": "src/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Stephen Clay",
-                    "email": "steve@mrclay.org",
-                    "role": "Developer"
-                },
-                {
-                    "name": "Ryan Grove",
-                    "email": "ryan@wonko.com",
-                    "role": "Developer"
-                }
-            ],
-            "description": "Provides a modified port of Douglas Crockford's jsmin.c, which removes unnecessary whitespace from JavaScript files.",
-            "homepage": "https://github.com/mrclay/jsmin-php/",
-            "keywords": [
-                "compress",
-                "jsmin",
-                "minify"
-            ],
-            "time": "2018-12-06T15:03:38+00:00"
-        },
-        {
-            "name": "mrclay/minify",
-            "version": "3.0.10",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/mrclay/minify.git",
-                "reference": "8dba84a2d24ae6382057a1215ad3af25202addb9"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/mrclay/minify/zipball/8dba84a2d24ae6382057a1215ad3af25202addb9",
-                "reference": "8dba84a2d24ae6382057a1215ad3af25202addb9",
-                "shasum": ""
-            },
-            "require": {
-                "ext-pcre": "*",
-                "intervention/httpauth": "^2.0|^3.0",
-                "marcusschwarz/lesserphp": "^0.5.1",
-                "monolog/monolog": "~1.1|~2.0",
-                "mrclay/jsmin-php": "~2",
-                "mrclay/props-dic": "^2.2|^3.0",
-                "php": "^5.3.0 || ^7.0",
-                "tubalmartin/cssmin": "~4"
-            },
-            "require-dev": {
-                "firephp/firephp-core": "~0.4.0",
-                "leafo/scssphp": "^0.3 || ^0.6 || ^0.7",
-                "meenie/javascript-packer": "~1.1",
-                "phpunit/phpunit": "^4.8.36",
-                "tedivm/jshrink": "~1.1.0"
-            },
-            "suggest": {
-                "firephp/firephp-core": "Use FirePHP for Log messages",
-                "meenie/javascript-packer": "Keep track of the Packer PHP port using Composer"
-            },
-            "type": "library",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "3.0.x-dev"
-                }
-            },
-            "autoload": {
-                "classmap": [
-                    "lib/"
-                ]
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "BSD-3-Clause"
-            ],
-            "authors": [
-                {
-                    "name": "Stephen Clay",
-                    "email": "steve@mrclay.org",
-                    "role": "Developer"
-                }
-            ],
-            "description": "Minify is a PHP app that helps you follow several rules for client-side performance. It combines multiple CSS or Javascript files, removes unnecessary whitespace and comments, and serves them with gzip encoding and optimal client-side cache headers",
-            "homepage": "https://github.com/mrclay/minify",
-            "time": "2020-04-02T19:47:26+00:00"
-        },
-        {
-            "name": "mrclay/props-dic",
-            "version": "3.0.0",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/mrclay/Props.git",
-                "reference": "0b0fd254e33e2d60bc2bcd7867f2ab3cdd05a843"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/mrclay/Props/zipball/0b0fd254e33e2d60bc2bcd7867f2ab3cdd05a843",
-                "reference": "0b0fd254e33e2d60bc2bcd7867f2ab3cdd05a843",
-                "shasum": ""
-            },
-            "require": {
-                "php": ">=5.3.3",
-                "pimple/pimple": "~3.0",
-                "psr/container": "^1.0"
-            },
-            "require-dev": {
-                "phpunit/phpunit": "~4.8"
-            },
-            "type": "library",
-            "autoload": {
-                "psr-0": {
-                    "Props\\": [
-                        "src/"
-                    ]
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Steve Clay",
-                    "email": "steve@mrclay.org",
-                    "homepage": "http://www.mrclay.org/"
-                }
-            ],
-            "description": "Props is a simple DI container that allows retrieving values via custom property and method names",
-            "keywords": [
-                "container",
-                "dependency injection",
-                "dependency injection container",
-                "di",
-                "di container"
-            ],
-            "time": "2019-11-26T17:56:10+00:00"
         },
         {
             "name": "msp/recaptcha",
@@ -14792,56 +14377,6 @@
             "time": "2020-07-08T09:08:33+00:00"
         },
         {
-            "name": "pimple/pimple",
-            "version": "v3.3.0",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/silexphp/Pimple.git",
-                "reference": "e55d12f9d6a0e7f9c85992b73df1267f46279930"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/silexphp/Pimple/zipball/e55d12f9d6a0e7f9c85992b73df1267f46279930",
-                "reference": "e55d12f9d6a0e7f9c85992b73df1267f46279930",
-                "shasum": ""
-            },
-            "require": {
-                "php": "^7.2.5",
-                "psr/container": "^1.0"
-            },
-            "require-dev": {
-                "symfony/phpunit-bridge": "^3.4|^4.4|^5.0"
-            },
-            "type": "library",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "3.3.x-dev"
-                }
-            },
-            "autoload": {
-                "psr-0": {
-                    "Pimple": "src/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Fabien Potencier",
-                    "email": "fabien@symfony.com"
-                }
-            ],
-            "description": "Pimple, a simple Dependency Injection Container",
-            "homepage": "https://pimple.symfony.com",
-            "keywords": [
-                "container",
-                "dependency injection"
-            ],
-            "time": "2020-03-03T09:12:48+00:00"
-        },
-        {
             "name": "psr/container",
             "version": "1.0.0",
             "source": {
@@ -15156,67 +14691,6 @@
             "time": "2020-05-12T15:16:56+00:00"
         },
         {
-            "name": "scssphp/scssphp",
-            "version": "1.1.1",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/scssphp/scssphp.git",
-                "reference": "824e4cec10b2bfa88eec5dac23991cb9106622c1"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/scssphp/scssphp/zipball/824e4cec10b2bfa88eec5dac23991cb9106622c1",
-                "reference": "824e4cec10b2bfa88eec5dac23991cb9106622c1",
-                "shasum": ""
-            },
-            "require": {
-                "ext-ctype": "*",
-                "ext-json": "*",
-                "php": ">=5.6.0"
-            },
-            "require-dev": {
-                "phpunit/phpunit": "^5.7 || ^6.5 || ^7.5 || ^8.3",
-                "squizlabs/php_codesniffer": "~3.5",
-                "twbs/bootstrap": "~4.3",
-                "zurb/foundation": "~6.5"
-            },
-            "bin": [
-                "bin/pscss"
-            ],
-            "type": "library",
-            "autoload": {
-                "psr-4": {
-                    "ScssPhp\\ScssPhp\\": "src/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Anthon Pang",
-                    "email": "apang@softwaredevelopment.ca",
-                    "homepage": "https://github.com/robocoder"
-                },
-                {
-                    "name": "Cédric Morin",
-                    "email": "cedric@yterium.com",
-                    "homepage": "https://github.com/Cerdic"
-                }
-            ],
-            "description": "scssphp is a compiler for SCSS written in PHP.",
-            "homepage": "http://scssphp.github.io/scssphp/",
-            "keywords": [
-                "css",
-                "less",
-                "sass",
-                "scss",
-                "stylesheet"
-            ],
-            "time": "2020-06-04T17:30:40+00:00"
-        },
-        {
             "name": "seld/jsonlint",
             "version": "1.8.0",
             "source": {
@@ -15310,56 +14784,6 @@
             "time": "2020-07-07T18:42:57+00:00"
         },
         {
-            "name": "spatie/image-optimizer",
-            "version": "1.2.1",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/spatie/image-optimizer.git",
-                "reference": "9c1d470e34b28b715d25edb539dd6c899461527c"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/spatie/image-optimizer/zipball/9c1d470e34b28b715d25edb539dd6c899461527c",
-                "reference": "9c1d470e34b28b715d25edb539dd6c899461527c",
-                "shasum": ""
-            },
-            "require": {
-                "ext-fileinfo": "*",
-                "php": "^7.2",
-                "psr/log": "^1.0",
-                "symfony/process": "^4.2|^5.0"
-            },
-            "require-dev": {
-                "phpunit/phpunit": "^8.0",
-                "symfony/var-dumper": "^4.2|^5.0"
-            },
-            "type": "library",
-            "autoload": {
-                "psr-4": {
-                    "Spatie\\ImageOptimizer\\": "src"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Freek Van der Herten",
-                    "email": "freek@spatie.be",
-                    "homepage": "https://spatie.be",
-                    "role": "Developer"
-                }
-            ],
-            "description": "Easily optimize images using PHP",
-            "homepage": "https://github.com/spatie/image-optimizer",
-            "keywords": [
-                "image-optimizer",
-                "spatie"
-            ],
-            "time": "2019-11-25T12:29:24+00:00"
-        },
-        {
             "name": "spomky-labs/otphp",
             "version": "v8.3.3",
             "source": {
@@ -15422,2758 +14846,6 @@
                 "totp"
             ],
             "time": "2018-09-13T19:25:26+00:00"
-        },
-        {
-            "name": "swissup/argento-m2",
-            "version": "1.19.0",
-            "require": {
-                "swissup/module-ajaxpro": "^1.5.8",
-                "swissup/module-ajaxsearch": "^1.9.8",
-                "swissup/module-amp": "^1.4.3",
-                "swissup/module-askit": "^1.8.2",
-                "swissup/module-attributepages": "^1.2.7",
-                "swissup/module-compare": "^1.1.2",
-                "swissup/module-easy-slide": "^1.5.7",
-                "swissup/module-easybanner": "^1.5.8",
-                "swissup/module-easycatalogimg": "^1.4.11",
-                "swissup/module-easytabs": "^1.9.0",
-                "swissup/module-fblike": "^1.3.5",
-                "swissup/module-featured-attributes": "^1.1.4",
-                "swissup/module-font-awesome": "^1.4.2",
-                "swissup/module-gdpr": "^1.3.6",
-                "swissup/module-gdpr-askit": "^1.1.3",
-                "swissup/module-gdpr-testimonials": "^1.1.1",
-                "swissup/module-highlight": "^1.6.3",
-                "swissup/module-hover-gallery": "^1.3.7",
-                "swissup/module-hreflang": "^1.4.2",
-                "swissup/module-lightboxpro": "^1.2.11",
-                "swissup/module-navigationpro": "^1.14.7",
-                "swissup/module-pagespeed": "^1.4.8",
-                "swissup/module-pro-labels": "^1.5.8",
-                "swissup/module-quantity-switcher": "^1.1.6",
-                "swissup/module-reviewreminder": "^1.1.7",
-                "swissup/module-rich-snippets": "^1.4.10",
-                "swissup/module-seo-canonical": "^1.0.7",
-                "swissup/module-seo-core": "^1.2.4",
-                "swissup/module-seo-cross-links": "^1.0.4",
-                "swissup/module-seo-html-sitemap": "^1.1.7",
-                "swissup/module-seo-images": "^1.3.6",
-                "swissup/module-seo-pager": "^1.2.6",
-                "swissup/module-seo-templates": "^1.5.14",
-                "swissup/module-seo-urls": "^1.5.16",
-                "swissup/module-seo-xml-sitemap": "^1.1.7",
-                "swissup/module-slick-carousel": "^1.3.3",
-                "swissup/module-sold-together": "^1.6.12",
-                "swissup/module-testimonials": "^1.2.11",
-                "swissup/module-theme-editor-argento-essence": "^1.5.0",
-                "swissup/module-theme-editor-argento-flat": "^1.5.0",
-                "swissup/module-theme-editor-argento-force": "^1.2.0",
-                "swissup/module-theme-editor-argento-luxury": "^1.5.0",
-                "swissup/module-theme-editor-argento-mall": "^1.5.0",
-                "swissup/module-theme-editor-argento-pure2": "^1.5.0",
-                "swissup/module-theme-editor-argento-stripes": "^1.5.0",
-                "swissup/theme-frontend-argento-blank": "^1.19.0",
-                "swissup/theme-frontend-argento-essence": "^1.19.0",
-                "swissup/theme-frontend-argento-flat": "^1.19.0",
-                "swissup/theme-frontend-argento-force": "^1.19.0",
-                "swissup/theme-frontend-argento-luxury": "^1.19.0",
-                "swissup/theme-frontend-argento-mall": "^1.19.0",
-                "swissup/theme-frontend-argento-pure2": "^1.19.0",
-                "swissup/theme-frontend-argento-stripes": "^1.19.0"
-            },
-            "type": "metapackage",
-            "extra": {
-                "marketplace": {
-                    "gallery": [
-                        "https://docs.swissuplabs.com/images/marketplace/theme-frontend-argento.png"
-                    ],
-                    "links": {
-                        "docs": "https://docs.swissuplabs.com/m2/argento/",
-                        "changelog": "https://docs.swissuplabs.com/m2/argento/changelog/"
-                    }
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Argento metapackage for Magento 2.x",
-            "support": {
-                "source": "https://github.com/swissup/argento-m2/tree/1.19.0"
-            },
-            "time": "2020-08-05T07:15:48+00:00"
-        },
-        {
-            "name": "swissup/module-ajaxpro",
-            "version": "1.5.8",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-ajaxpro/download/1.5.8",
-                "reference": "ae4fe34b1ba7e9417e786ca53921fb5ec6318a91",
-                "shasum": ""
-            },
-            "require": {
-                "ext-json": "*",
-                "magento/framework": ">=100.1",
-                "magento/module-catalog": ">=101.1",
-                "magento/module-checkout": ">=100.1",
-                "magento/module-customer": ">=100.1",
-                "magento/module-store": ">=100.1",
-                "magento/module-tax": ">=100.1",
-                "swissup/module-core": "^1.10.3",
-                "swissup/module-suggestpage": "^1.2.6"
-            },
-            "type": "magento2-module",
-            "extra": {
-                "swissup": {
-                    "links": {
-                        "docs": "http://docs.swissuplabs.com/m2/extensions/ajaxpro/",
-                        "changelog": "http://docs.swissuplabs.com/m2/extensions/ajaxpro/changelog/"
-                    }
-                },
-                "marketplace": {
-                    "gallery": [
-                        "https://docs.swissuplabs.com/images/marketplace/module-ajaxpro.png"
-                    ],
-                    "links": {
-                        "docs": "https://docs.swissuplabs.com/m2/extensions/ajaxpro/",
-                        "changelog": "https://docs.swissuplabs.com/m2/extensions/ajaxpro/changelog/"
-                    }
-                }
-            },
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\Ajaxpro\\": ""
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Ajax functionality for Add to Cart, Add to Compare, and Add to Wishlist actions",
-            "support": {
-                "source": "https://github.com/swissup/module-ajaxpro/tree/1.5.8",
-                "issues": "https://github.com/swissup/module-ajaxpro/issues"
-            },
-            "time": "2020-07-29T08:06:20+00:00"
-        },
-        {
-            "name": "swissup/module-ajaxsearch",
-            "version": "1.9.8",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-ajaxsearch/download/1.9.8",
-                "reference": "77952044dba42ffa1acd3d1a762c514a07de7ee1",
-                "shasum": ""
-            },
-            "require": {
-                "magento/framework": ">=101.0",
-                "magento/module-catalog": ">=102.0",
-                "magento/module-checkout": ">=100.2",
-                "magento/module-cms": ">=102.0",
-                "magento/module-search": ">=100.2",
-                "magento/module-store": ">=100.2",
-                "swissup/module-core": "^1.10.3",
-                "swissup/module-rtl": "^1.3.4"
-            },
-            "type": "magento2-module",
-            "extra": {
-                "swissup": {
-                    "links": {
-                        "marketplace": "https://marketplace.magento.com/swissup-ajaxsearch.html",
-                        "store": "https://swissuplabs.com/",
-                        "docs": "http://docs.swissuplabs.com/m2/extensions/ajaxsearch/",
-                        "changelog": "http://docs.swissuplabs.com/m2/extensions/ajaxsearch/changelog/"
-                    }
-                },
-                "marketplace": {
-                    "gallery": [
-                        "https://docs.swissuplabs.com/images/marketplace/module-ajaxsearch.png"
-                    ],
-                    "links": {
-                        "docs": "https://docs.swissuplabs.com/m2/extensions/ajaxsearch/",
-                        "changelog": "https://docs.swissuplabs.com/m2/extensions/ajaxsearch/changelog/"
-                    }
-                }
-            },
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\Ajaxsearch\\": ""
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Advanced ajax search",
-            "keywords": [
-                "ajaxsearch",
-                "search"
-            ],
-            "support": {
-                "source": "https://github.com/swissup/module-ajaxsearch/tree/1.9.8",
-                "issues": "https://github.com/swissup/module-ajaxsearch/issues"
-            },
-            "time": "2020-07-31T14:22:05+00:00"
-        },
-        {
-            "name": "swissup/module-amp",
-            "version": "1.4.3",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-amp/download/1.4.3",
-                "reference": "f38c9128dbf8d33fdec4757b9e33dfbd37e2b88c",
-                "shasum": ""
-            },
-            "require": {
-                "mobiledetect/mobiledetectlib": "^2.8",
-                "scssphp/scssphp": "^1.1.1",
-                "swissup/module-core": "^1.10.3",
-                "swissup/module-easy-slide": "^1.5.6",
-                "swissup/module-easycatalogimg": "^1.4.9",
-                "swissup/module-image": "^1.0.0",
-                "swissup/module-rtl": "^1.3.4"
-            },
-            "type": "magento2-module",
-            "extra": {
-                "swissup": {
-                    "links": {
-                        "store": "https://swissuplabs.com/",
-                        "docs": "https://docs.swissuplabs.com/m2/extensions/amp/",
-                        "changelog": "https://docs.swissuplabs.com/m2/extensions/amp/changelog/"
-                    }
-                },
-                "marketplace": {
-                    "gallery": [
-                        "https://docs.swissuplabs.com/images/marketplace/module-amp.png"
-                    ],
-                    "links": {
-                        "docs": "https://docs.swissuplabs.com/m2/extensions/amp/",
-                        "changelog": "https://docs.swissuplabs.com/m2/extensions/amp/changelog/"
-                    }
-                }
-            },
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\Amp\\": ""
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Accelerated Mobile Pages for Magento 2",
-            "support": {
-                "source": "https://github.com/swissup/module-amp/tree/1.4.3",
-                "issues": "https://github.com/swissup/module-amp/issues"
-            },
-            "time": "2020-07-31T13:00:48+00:00"
-        },
-        {
-            "name": "swissup/module-askit",
-            "version": "1.8.2",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-askit/download/1.8.2",
-                "reference": "6f9d5c7a85aa2bdf2d26da0d47306036ca3b3304",
-                "shasum": ""
-            },
-            "require": {
-                "magento/framework": ">=101.0",
-                "magento/module-backend": ">=100.2",
-                "magento/module-captcha": ">=100.2",
-                "magento/module-cms": ">=102.0",
-                "magento/module-customer": ">=101.0",
-                "magento/module-store": ">=100.2",
-                "magento/module-url-rewrite": ">=101.0",
-                "magento/module-widget": ">=101.0",
-                "psr/log": "^1.1",
-                "swissup/module-core": "^1.10.3"
-            },
-            "type": "magento2-module",
-            "extra": {
-                "swissup": {
-                    "links": {
-                        "docs": "http://docs.swissuplabs.com/m2/extensions/askit/",
-                        "changelog": "http://docs.swissuplabs.com/m2/extensions/askit/changelog/",
-                        "store": "https://swissuplabs.com/product-question-extension-for-magento-2.html"
-                    }
-                },
-                "marketplace": {
-                    "gallery": [
-                        "https://docs.swissuplabs.com/images/marketplace/module-askit.png"
-                    ],
-                    "links": {
-                        "docs": "https://docs.swissuplabs.com/m2/extensions/askit/",
-                        "changelog": "https://docs.swissuplabs.com/m2/extensions/askit/changelog/"
-                    }
-                }
-            },
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\Askit\\": ""
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Product, Category, Cms Page questions and comments",
-            "keywords": [
-                "answers",
-                "comments",
-                "faq",
-                "page comments",
-                "product questions",
-                "questions"
-            ],
-            "support": {
-                "source": "https://github.com/swissup/module-askit/tree/1.8.2",
-                "issues": "https://github.com/swissup/module-askit/issues"
-            },
-            "time": "2020-08-04T11:54:50+00:00"
-        },
-        {
-            "name": "swissup/module-attributepages",
-            "version": "1.2.7",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-attributepages/download/1.2.7",
-                "reference": "c232464684ca628e3c176d857b0b36e64ab8965b",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/module-core": "^1.10.3",
-                "swissup/module-slick-carousel": "^1.3.3"
-            },
-            "type": "magento2-module",
-            "extra": {
-                "swissup": {
-                    "links": {
-                        "store": "https://swissuplabs.com/attributes-and-brands-pages-for-magento-2.html",
-                        "download": "https://swissuplabs.com/subscription/customer/products/",
-                        "docs": "http://docs.swissuplabs.com/m2/extensions/attributepages/",
-                        "changelog": "http://docs.swissuplabs.com/m2/extensions/attributepages/changelog/"
-                    }
-                },
-                "marketplace": {
-                    "gallery": [
-                        "https://docs.swissuplabs.com/images/marketplace/module-attributepages.png"
-                    ],
-                    "links": {
-                        "docs": "https://docs.swissuplabs.com/m2/extensions/attributepages/",
-                        "changelog": "https://docs.swissuplabs.com/m2/extensions/attributepages/changelog/"
-                    }
-                }
-            },
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\Attributepages\\": ""
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Attribute Pages extension from Swissup",
-            "keywords": [
-                "attribute page",
-                "attributepages",
-                "brand page"
-            ],
-            "support": {
-                "source": "https://github.com/swissup/module-attributepages/tree/1.2.7",
-                "issues": "https://github.com/swissup/module-attributepages/issues"
-            },
-            "time": "2020-08-04T11:54:53+00:00"
-        },
-        {
-            "name": "swissup/module-codemirror",
-            "version": "1.1.7",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-codemirror/download/1.1.7",
-                "reference": "a5c3b02d3ff8df2eddd5b5a7fcea33effa1dca3a",
-                "shasum": ""
-            },
-            "type": "magento2-module",
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\Codemirror\\": ""
-                }
-            },
-            "license": [
-                "MIT"
-            ],
-            "description": "Versatile text editor implemented in JavaScript for the browser. ",
-            "support": {
-                "source": "https://github.com/swissup/module-codemirror/tree/1.1.7",
-                "issues": "https://github.com/swissup/module-codemirror/issues"
-            },
-            "time": "2020-08-04T11:46:10+00:00"
-        },
-        {
-            "name": "swissup/module-compare",
-            "version": "1.1.2",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-compare/download/1.1.2",
-                "reference": "8645c871cb170bcdf19f9e7d93a67336f111da91",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/module-core": "^1.8.7"
-            },
-            "type": "magento2-module",
-            "extra": {
-                "swissup": {
-                    "links": {
-                        "marketplace": "https://marketplace.magento.com/swissup-compare.html",
-                        "store": "https://swissuplabs.com/",
-                        "docs": "http://docs.swissuplabs.com/m2/extensions/compare/",
-                        "changelog": "http://docs.swissuplabs.com/m2/extensions/compare/changelog/"
-                    }
-                }
-            },
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\Compare\\": ""
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Compare page design",
-            "keywords": [
-                "compare"
-            ],
-            "support": {
-                "source": "https://github.com/swissup/module-compare/tree/1.1.2",
-                "issues": "https://github.com/swissup/module-compare/issues"
-            },
-            "time": "2019-10-16T07:24:01+00:00"
-        },
-        {
-            "name": "swissup/module-core",
-            "version": "1.10.4",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-core/download/1.10.4",
-                "reference": "bf5e03f3c44960792a9fc2fb21c5dae6a1f9c5fb",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/module-marketplace": "^1.7.2"
-            },
-            "type": "magento2-module",
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\Core\\": ""
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Swissup core module. It's purpose is to add menu and config placeholders",
-            "keywords": [
-                "core",
-                "installer",
-                "module manager",
-                "notifier",
-                "popup messenger",
-                "swissup services"
-            ],
-            "support": {
-                "source": "https://github.com/swissup/module-core/tree/1.10.4",
-                "issues": "https://github.com/swissup/module-core/issues"
-            },
-            "time": "2020-08-04T14:12:39+00:00"
-        },
-        {
-            "name": "swissup/module-easy-slide",
-            "version": "1.5.7",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-easy-slide/download/1.5.7",
-                "reference": "788427972ce338b0969a36c93916e01df4200ecf",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/module-core": "^1.10.3",
-                "swissup/module-image": "^1.0.0"
-            },
-            "type": "magento2-module",
-            "extra": {
-                "swissup": {
-                    "links": {
-                        "store": "https://swissuplabs.com/magento-2-slider-extension.html",
-                        "download": "https://swissuplabs.com/subscription/customer/products/",
-                        "docs": "http://docs.swissuplabs.com/m2/extensions/easyslider/",
-                        "changelog": "http://docs.swissuplabs.com/m2/extensions/easyslider/changelog/"
-                    }
-                },
-                "marketplace": {
-                    "gallery": [
-                        "https://docs.swissuplabs.com/images/marketplace/module-easyslide.png"
-                    ],
-                    "links": {
-                        "docs": "https://docs.swissuplabs.com/m2/extensions/easyslider/",
-                        "changelog": "https://docs.swissuplabs.com/m2/extensions/easyslider/changelog/"
-                    }
-                }
-            },
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\EasySlide\\": ""
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Create and manage Magento sliders",
-            "keywords": [
-                "easyslide",
-                "slider"
-            ],
-            "support": {
-                "source": "https://github.com/swissup/module-easy-slide/tree/1.5.7",
-                "issues": "https://github.com/swissup/module-easy-slide/issues"
-            },
-            "time": "2020-08-04T11:55:01+00:00"
-        },
-        {
-            "name": "swissup/module-easybanner",
-            "version": "1.5.8",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-easybanner/download/1.5.8",
-                "reference": "4c57e0e08b511d63a3bc1695f044d18c470b4c77",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/module-core": "^1.10.3",
-                "swissup/module-image": "^1.0.0"
-            },
-            "type": "magento2-module",
-            "extra": {
-                "swissup": {
-                    "links": {
-                        "store": "https://swissuplabs.com/magento-2-banners-and-custom-blocks-extension.html",
-                        "download": "https://swissuplabs.com/subscription/customer/products/",
-                        "docs": "http://docs.swissuplabs.com/m2/extensions/easybanners/",
-                        "changelog": "http://docs.swissuplabs.com/m2/extensions/easybanners/changelog/"
-                    }
-                },
-                "marketplace": {
-                    "gallery": [
-                        "https://docs.swissuplabs.com/images/marketplace/module-easybanner.png"
-                    ],
-                    "links": {
-                        "docs": "https://docs.swissuplabs.com/m2/extensions/easybanner/",
-                        "changelog": "https://docs.swissuplabs.com/m2/extensions/easybanner/changelog/"
-                    }
-                }
-            },
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\Easybanner\\": ""
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Magento banners and blocks",
-            "keywords": [
-                "advertising",
-                "awesomebar",
-                "banner",
-                "block",
-                "easybanner",
-                "lightbox"
-            ],
-            "support": {
-                "source": "https://github.com/swissup/module-easybanner/tree/1.5.8",
-                "issues": "https://github.com/swissup/module-easybanner/issues"
-            },
-            "time": "2020-08-04T11:54:55+00:00"
-        },
-        {
-            "name": "swissup/module-easycatalogimg",
-            "version": "1.4.11",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-easycatalogimg/download/1.4.11",
-                "reference": "2d3fadfe44a026958122ce32f8e7331cb6cf9fbe",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/module-core": "^1.10.3"
-            },
-            "type": "magento2-module",
-            "extra": {
-                "swissup": {
-                    "links": {
-                        "store": "https://swissuplabs.com/magento-2-easy-catalog-images.html",
-                        "download": "https://swissuplabs.com/subscription/customer/products/",
-                        "docs": "http://docs.swissuplabs.com/m2/extensions/easycatalogimages/",
-                        "changelog": "http://docs.swissuplabs.com/m2/extensions/easycatalogimages/changelog/"
-                    }
-                },
-                "marketplace": {
-                    "gallery": [
-                        "https://docs.swissuplabs.com/images/marketplace/module-easycatalogimages.png"
-                    ],
-                    "links": {
-                        "docs": "https://docs.swissuplabs.com/m2/extensions/easycatalogimages/",
-                        "changelog": "https://docs.swissuplabs.com/m2/extensions/easycatalogimages/changelog/"
-                    }
-                }
-            },
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\Easycatalogimg\\": ""
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Easy Catalog Images extension from Swissup",
-            "keywords": [
-                "category thumbnail",
-                "easycatalogimages",
-                "subcategory listing"
-            ],
-            "support": {
-                "source": "https://github.com/swissup/module-easycatalogimg/tree/1.4.11",
-                "issues": "https://github.com/swissup/module-easycatalogimg/issues"
-            },
-            "time": "2020-08-04T12:03:44+00:00"
-        },
-        {
-            "name": "swissup/module-easytabs",
-            "version": "1.9.0",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-easytabs/download/1.9.0",
-                "reference": "e2ec7679fc721b7d8863a614aa953315f5032472",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/module-core": "^1.10.3"
-            },
-            "type": "magento2-module",
-            "extra": {
-                "swissup": {
-                    "links": {
-                        "store": "https://swissuplabs.com/product-tabs-magento-2-extension.html",
-                        "download": "https://swissuplabs.com/subscription/customer/products/",
-                        "docs": "http://docs.swissuplabs.com/m2/extensions/easytabs/",
-                        "changelog": "http://docs.swissuplabs.com/m2/extensions/easytabs/changelog/"
-                    }
-                },
-                "marketplace": {
-                    "gallery": [
-                        "https://docs.swissuplabs.com/images/marketplace/module-easytabs.png"
-                    ],
-                    "links": {
-                        "docs": "https://docs.swissuplabs.com/m2/extensions/easytabs/",
-                        "changelog": "https://docs.swissuplabs.com/m2/extensions/easytabs/changelog/"
-                    }
-                }
-            },
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\Easytabs\\": ""
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Easy Tabs extension from Swissup",
-            "keywords": [
-                "easytabs",
-                "homepage tabs",
-                "product tabs",
-                "tabs"
-            ],
-            "support": {
-                "source": "https://github.com/swissup/module-easytabs/tree/1.9.0",
-                "issues": "https://github.com/swissup/module-easytabs/issues"
-            },
-            "time": "2020-08-04T11:54:58+00:00"
-        },
-        {
-            "name": "swissup/module-fblike",
-            "version": "1.3.5",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-fblike/download/1.3.5",
-                "reference": "959730c36458dec77ebaa45411ea1bcdef7f9584",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/module-core": "^1.10.2"
-            },
-            "type": "magento2-module",
-            "extra": {
-                "marketplace": {
-                    "gallery": [
-                        "https://docs.swissuplabs.com/images/marketplace/module-fblike.png"
-                    ],
-                    "links": {
-                        "docs": "https://docs.swissuplabs.com/m2/facebooklikebutton/"
-                    }
-                }
-            },
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\Fblike\\": ""
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Facebook Like Button for Magento 2",
-            "support": {
-                "source": "https://github.com/swissup/module-fblike/tree/1.3.5",
-                "issues": "https://github.com/swissup/module-fblike/issues"
-            },
-            "time": "2020-05-04T12:28:56+00:00"
-        },
-        {
-            "name": "swissup/module-featured-attributes",
-            "version": "1.1.4",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-featured-attributes/download/1.1.4",
-                "reference": "f16eb024cf13d1202733fb6525dd4d0bede5e5dc",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/module-core": "^1.10.2"
-            },
-            "type": "magento2-module",
-            "extra": {
-                "swissup": {
-                    "links": {
-                        "download": "https://github.com/swissup/featured-attributes"
-                    }
-                }
-            },
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\FeaturedAttributes\\": ""
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Featured attributes extension from Swissup",
-            "keywords": [
-                "attributes on category page",
-                "featured attributes"
-            ],
-            "support": {
-                "source": "https://github.com/swissup/module-featured-attributes/tree/1.1.4",
-                "issues": "https://github.com/swissup/module-featured-attributes/issues"
-            },
-            "time": "2020-07-17T13:01:48+00:00"
-        },
-        {
-            "name": "swissup/module-font-awesome",
-            "version": "1.4.2",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-font-awesome/download/1.4.2",
-                "reference": "004f1acc04c6b3ce3e9c2e6e8409f04770388f54",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/module-core": "^1.10.3"
-            },
-            "type": "magento2-module",
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\FontAwesome\\": ""
-                }
-            },
-            "license": [
-                "MIT"
-            ],
-            "description": "FontAwesome for Magento2",
-            "keywords": [
-                "font",
-                "font awesome",
-                "font-awesome",
-                "fontawesome",
-                "icons"
-            ],
-            "support": {
-                "source": "https://github.com/swissup/module-font-awesome/tree/1.4.2",
-                "issues": "https://github.com/swissup/module-font-awesome/issues"
-            },
-            "time": "2020-07-23T10:59:05+00:00"
-        },
-        {
-            "name": "swissup/module-gdpr",
-            "version": "1.3.7",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-gdpr/download/1.3.7",
-                "reference": "4f55caa798e6baa4794fecc2836e00b15b7e72bd",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/module-core": "^1.10.4",
-                "swissup/module-rtl": "^1.3.4"
-            },
-            "type": "magento2-module",
-            "extra": {
-                "marketplace": {
-                    "gallery": [
-                        "https://docs.swissuplabs.com/images/marketplace/module-gdpr.png"
-                    ],
-                    "links": {
-                        "docs": "https://docs.swissuplabs.com/m2/extensions/gdpr/",
-                        "changelog": "https://docs.swissuplabs.com/m2/extensions/gdpr/changelog/"
-                    }
-                }
-            },
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\Gdpr\\": ""
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "GDPR compliance made easy",
-            "keywords": [
-                "gdpr"
-            ],
-            "support": {
-                "source": "https://github.com/swissup/module-gdpr/tree/1.3.7",
-                "issues": "https://github.com/swissup/module-gdpr/issues"
-            },
-            "time": "2020-08-05T07:48:17+00:00"
-        },
-        {
-            "name": "swissup/module-gdpr-askit",
-            "version": "1.1.3",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-gdpr-askit/download/1.1.3",
-                "reference": "ffc8bfeeafa92509d658603580e2f9dbc3a5cbd7",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/module-askit": "^1.8.0",
-                "swissup/module-gdpr": "^1.3.3"
-            },
-            "type": "magento2-module",
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\GdprAskit\\": ""
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "GDPR compliance for AskIt module",
-            "keywords": [
-                "askit",
-                "gdpr"
-            ],
-            "support": {
-                "source": "https://github.com/swissup/module-gdpr-askit/tree/1.1.3",
-                "issues": "https://github.com/swissup/module-gdpr-askit/issues"
-            },
-            "time": "2020-06-30T11:45:36+00:00"
-        },
-        {
-            "name": "swissup/module-gdpr-testimonials",
-            "version": "1.1.1",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-gdpr-testimonials/download/1.1.1",
-                "reference": "1a3564569ff3dff16f6d461c2ed9806cbdc75fc8",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/module-gdpr": "^1.2.0",
-                "swissup/module-testimonials": "^1.2.5"
-            },
-            "type": "magento2-module",
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\GdprTestimonials\\": ""
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "GDPR compliance for testimonials module",
-            "keywords": [
-                "gdpr",
-                "testimonials"
-            ],
-            "support": {
-                "source": "https://github.com/swissup/module-gdpr-testimonials/tree/1.1.1",
-                "issues": "https://github.com/swissup/module-gdpr-testimonials/issues"
-            },
-            "time": "2019-10-16T07:24:12+00:00"
-        },
-        {
-            "name": "swissup/module-highlight",
-            "version": "1.6.3",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-highlight/download/1.6.3",
-                "reference": "60aa89baf3f4b70e89d1a3bcdbb05371ec014cbf",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/module-core": "^1.10.3",
-                "swissup/module-rtl": "^1.3.4",
-                "swissup/module-slick-carousel": "^1.3.3"
-            },
-            "type": "magento2-module",
-            "extra": {
-                "marketplace": {
-                    "gallery": [
-                        "https://docs.swissuplabs.com/images/marketplace/module-highlight.png"
-                    ],
-                    "links": {
-                        "docs": "https://docs.swissuplabs.com/m2/extensions/highlight/",
-                        "changelog": "https://docs.swissuplabs.com/m2/extensions/highlight/changelog/"
-                    }
-                }
-            },
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\Highlight\\": ""
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Product listing widgets, ajax carousel with flexible filters",
-            "keywords": [
-                "bestsellers",
-                "featured products",
-                "highlight",
-                "new products",
-                "onsale products",
-                "popular products",
-                "product listing",
-                "products carousel"
-            ],
-            "support": {
-                "source": "https://github.com/swissup/module-highlight/tree/1.6.3",
-                "issues": "https://github.com/swissup/module-highlight/issues"
-            },
-            "time": "2020-08-04T11:54:25+00:00"
-        },
-        {
-            "name": "swissup/module-hover-gallery",
-            "version": "1.3.7",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-hover-gallery/download/1.3.7",
-                "reference": "3f589f8e3ca3036dde6015922f2b36ce9f7ce330",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/module-core": "^1.10.3"
-            },
-            "type": "magento2-module",
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\HoverGallery\\": ""
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Product image hover gallery for Magento 2.x e-commerce",
-            "support": {
-                "source": "https://github.com/swissup/module-hover-gallery/tree/1.3.7",
-                "issues": "https://github.com/swissup/module-hover-gallery/issues"
-            },
-            "time": "2020-08-04T11:54:44+00:00"
-        },
-        {
-            "name": "swissup/module-hreflang",
-            "version": "1.4.2",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-hreflang/download/1.4.2",
-                "reference": "cd937b237039b377e7ccdbdb5718b4472a5c8a7a",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/module-seo-core": "^1.2.4"
-            },
-            "type": "magento2-module",
-            "extra": {
-                "swissup": {
-                    "links": {
-                        "docs": "http://docs.swissuplabs.com/m2/extensions/hreflang/"
-                    }
-                }
-            },
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\Hreflang\\": ""
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Help Google to understand translated content in Magento 2.x",
-            "keywords": [
-                "hreflang tag"
-            ],
-            "support": {
-                "source": "https://github.com/swissup/module-hreflang/tree/1.4.2",
-                "issues": "https://github.com/swissup/module-hreflang/issues"
-            },
-            "time": "2020-07-21T11:14:25+00:00"
-        },
-        {
-            "name": "swissup/module-image",
-            "version": "1.0.0",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/swissup/module-image.git",
-                "reference": "a604633c1ad5a54e996248e62b7848bf92d6e2a4"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/swissup/module-image/zipball/a604633c1ad5a54e996248e62b7848bf92d6e2a4",
-                "reference": "a604633c1ad5a54e996248e62b7848bf92d6e2a4",
-                "shasum": ""
-            },
-            "require": {
-                "marc1706/fast-image-size": "1.*"
-            },
-            "type": "magento2-module",
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\Image\\": ""
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "description": "Detect image dimensions",
-            "time": "2020-07-15T14:23:40+00:00"
-        },
-        {
-            "name": "swissup/module-lightboxpro",
-            "version": "1.2.11",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-lightboxpro/download/1.2.11",
-                "reference": "22b4ca1add54f41624061ff380d1d68d593ee4d1",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/module-core": "^1.10.3"
-            },
-            "type": "magento2-module",
-            "extra": {
-                "marketplace": {
-                    "gallery": [
-                        "https://docs.swissuplabs.com/images/marketplace/module-lightboxpro.png"
-                    ],
-                    "links": {
-                        "docs": "https://docs.swissuplabs.com/m2/extensions/lightboxpro/",
-                        "changelog": "https://docs.swissuplabs.com/m2/extensions/lightboxpro/changelog/"
-                    }
-                }
-            },
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\Lightboxpro\\": ""
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Lightbox Pro module for Magento 2",
-            "keywords": [
-                "lightbox",
-                "product image",
-                "zoom"
-            ],
-            "support": {
-                "source": "https://github.com/swissup/module-lightboxpro/tree/1.2.11",
-                "issues": "https://github.com/swissup/module-lightboxpro/issues"
-            },
-            "time": "2020-07-31T12:58:05+00:00"
-        },
-        {
-            "name": "swissup/module-marketplace",
-            "version": "1.7.2",
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/swissup/module-marketplace/zipball/f23a22a51b69f38dca15c1c69dffd5895feb3dbc",
-                "reference": "f23a22a51b69f38dca15c1c69dffd5895feb3dbc",
-                "shasum": ""
-            },
-            "require": {
-                "composer/composer": "*",
-                "magento/framework": ">=101.0",
-                "magento/module-backend": ">=100.2",
-                "magento/module-catalog": "*",
-                "magento/module-cms": "*",
-                "magento/module-deploy": ">=100.0",
-                "magento/module-theme": "*",
-                "magento/module-ui": ">=101.0",
-                "monolog/monolog": "*",
-                "psr/log": "*",
-                "symfony/console": "*"
-            },
-            "type": "magento2-module",
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\Marketplace\\": ""
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "description": "One-Click modules and themes downloader/installer",
-            "keywords": [
-                "Module Manager",
-                "installer",
-                "magento marketplace",
-                "marketplace",
-                "theme manager"
-            ],
-            "time": "2020-08-04T11:55:32+00:00"
-        },
-        {
-            "name": "swissup/module-navigationpro",
-            "version": "1.14.7",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-navigationpro/download/1.14.7",
-                "reference": "a110ec8e016be4c5c9cb90c9bb152e90a86e6c16",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/module-core": "^1.10.4",
-                "swissup/module-rtl": "^1.3.4",
-                "swissup/module-stickyfill": "^1.2.2"
-            },
-            "type": "magento2-module",
-            "extra": {
-                "swissup": {
-                    "links": {
-                        "docs": "http://docs.swissuplabs.com/m2/extensions/navigationpro/",
-                        "changelog": "http://docs.swissuplabs.com/m2/extensions/navigationpro/changelog/"
-                    }
-                },
-                "marketplace": {
-                    "gallery": [
-                        "https://docs.swissuplabs.com/images/marketplace/module-navigationpro.png"
-                    ],
-                    "links": {
-                        "docs": "https://docs.swissuplabs.com/m2/navigationpro/",
-                        "changelog": "https://docs.swissuplabs.com/m2/navigationpro/changelog/"
-                    }
-                }
-            },
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\Navigationpro\\": ""
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Create beautiful menus for Magento 2",
-            "keywords": [
-                "amazon menu",
-                "megamenu",
-                "menu",
-                "navigation",
-                "rtl menu",
-                "sidebar menu"
-            ],
-            "support": {
-                "source": "https://github.com/swissup/module-navigationpro/tree/1.14.7",
-                "issues": "https://github.com/swissup/module-navigationpro/issues"
-            },
-            "time": "2020-08-05T06:40:37+00:00"
-        },
-        {
-            "name": "swissup/module-pagespeed",
-            "version": "1.4.8",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-pagespeed/download/1.4.8",
-                "reference": "dde4818747e5bd79c03485afad722968c3febf8f",
-                "shasum": ""
-            },
-            "require": {
-                "ext-json": "*",
-                "ext-pcre": "*",
-                "ext-xml": "*",
-                "magento/framework": ">=101.0",
-                "magento/module-backend": ">=100.2",
-                "magento/module-catalog": ">=102.0",
-                "magento/module-customer": ">=101.0",
-                "magento/module-deploy": ">=100.2",
-                "magento/module-store": ">=100.2",
-                "magento/module-theme": ">=100.2",
-                "mobiledetect/mobiledetectlib": "^2.8",
-                "mrclay/minify": "~3.0.0",
-                "psr/log": "^1.0",
-                "spatie/image-optimizer": "^1.1",
-                "swissup/module-core": "^1.10.3",
-                "swissup/module-image": "^1.0.0",
-                "zendframework/zend-dom": "^2.7.1"
-            },
-            "type": "magento2-module",
-            "extra": {
-                "marketplace": {
-                    "gallery": [
-                        "https://docs.swissuplabs.com/images/marketplace/module-pagespeed.png"
-                    ],
-                    "links": {
-                        "docs": "https://docs.swissuplabs.com/m2/extensions/pagespeed/",
-                        "changelog": "https://docs.swissuplabs.com/m2/extensions/pagespeed/changelog/"
-                    }
-                }
-            },
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\Pagespeed\\": ""
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Swissup Pagespeed module",
-            "keywords": [
-                "minify",
-                "pagespeed"
-            ],
-            "support": {
-                "source": "https://github.com/swissup/module-pagespeed/tree/1.4.8",
-                "issues": "https://github.com/swissup/module-pagespeed/issues"
-            },
-            "time": "2020-08-04T11:54:33+00:00"
-        },
-        {
-            "name": "swissup/module-pro-labels",
-            "version": "1.5.8",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-pro-labels/download/1.5.8",
-                "reference": "0243c0a504a2cf675d8854b1768d95f00a5bf342",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/module-codemirror": "^1.1.7",
-                "swissup/module-core": "^1.10.3"
-            },
-            "suggest": {
-                "swissup/module-font-awesome": "Works nicely with labels. You can easily use font awesome icons as labels. There are few example labels in module presets."
-            },
-            "type": "magento2-module",
-            "extra": {
-                "marketplace": {
-                    "gallery": [
-                        "https://docs.swissuplabs.com/images/marketplace/module-prolabels.png"
-                    ],
-                    "links": {
-                        "docs": "https://docs.swissuplabs.com/m2/extensions/prolabels/",
-                        "changelog": "https://docs.swissuplabs.com/m2/extensions/prolabels/changelog/"
-                    }
-                }
-            },
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\ProLabels\\": ""
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Product labels and badges",
-            "support": {
-                "source": "https://github.com/swissup/module-pro-labels/tree/1.5.8",
-                "issues": "https://github.com/swissup/module-pro-labels/issues"
-            },
-            "time": "2020-08-04T11:55:04+00:00"
-        },
-        {
-            "name": "swissup/module-quantity-switcher",
-            "version": "1.1.6",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-quantity-switcher/download/1.1.6",
-                "reference": "30ab2eadca69082f9298afa170754b9a6d9c160e",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/module-core": "^1.10.3",
-                "swissup/module-rtl": "^1.3.4"
-            },
-            "type": "magento2-module",
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\QuantitySwitcher\\": ""
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Quantity Switcher extension for Magento 2.x e-commerce",
-            "keywords": [
-                "quantity",
-                "switcher"
-            ],
-            "support": {
-                "source": "https://github.com/swissup/module-quantity-switcher/tree/1.1.6",
-                "issues": "https://github.com/swissup/module-quantity-switcher/issues"
-            },
-            "time": "2020-08-04T11:54:47+00:00"
-        },
-        {
-            "name": "swissup/module-reviewreminder",
-            "version": "1.1.7",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-reviewreminder/download/1.1.7",
-                "reference": "656a9e5a7775532abb57b58d0e83ecf2c07b14f9",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/module-core": "^1.10.3"
-            },
-            "type": "magento2-module",
-            "extra": {
-                "marketplace": {
-                    "gallery": [
-                        "https://docs.swissuplabs.com/images/marketplace/module-review-reminder.png"
-                    ],
-                    "links": {
-                        "docs": "https://docs.swissuplabs.com/m2/extensions/module-reviewreminder/",
-                        "changelog": "https://docs.swissuplabs.com/m2/extensions/module-reviewreminder/changelog/"
-                    }
-                }
-            },
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\Reviewreminder\\": ""
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Review Reminder extension from Swissup",
-            "support": {
-                "source": "https://github.com/swissup/module-reviewreminder/tree/1.1.7",
-                "issues": "https://github.com/swissup/module-reviewreminder/issues"
-            },
-            "time": "2020-08-04T11:55:10+00:00"
-        },
-        {
-            "name": "swissup/module-rich-snippets",
-            "version": "1.4.10",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-rich-snippets/download/1.4.10",
-                "reference": "c70c08fc4fe2a73053f160ecb5ede7dc98d2a0b4",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/module-seo-core": "^1.2.3"
-            },
-            "type": "magento2-module",
-            "extra": {
-                "marketplace": {
-                    "gallery": [
-                        "https://docs.swissuplabs.com/images/marketplace/module-richsnippets.png"
-                    ],
-                    "links": {
-                        "docs": "https://docs.swissuplabs.com/m2/extensions/richsnippets/",
-                        "changelog": "https://docs.swissuplabs.com/m2/extensions/richsnippets/changelog/"
-                    }
-                }
-            },
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\RichSnippets\\": ""
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Structured data markup for Google's crawlers",
-            "support": {
-                "source": "https://github.com/swissup/module-rich-snippets/tree/1.4.10",
-                "issues": "https://github.com/swissup/module-rich-snippets/issues"
-            },
-            "time": "2020-06-24T07:08:28+00:00"
-        },
-        {
-            "name": "swissup/module-rtl",
-            "version": "1.3.4",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-rtl/download/1.3.4",
-                "reference": "d9c19917cc43ad796192cbf8190419a5e09d3a40",
-                "shasum": ""
-            },
-            "type": "magento2-module",
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\Rtl\\": ""
-                }
-            },
-            "license": [
-                "MIT"
-            ],
-            "description": "Magento2 RTL detection",
-            "keywords": [
-                "rtl"
-            ],
-            "support": {
-                "source": "https://github.com/swissup/module-rtl/tree/1.3.4",
-                "issues": "https://github.com/swissup/module-rtl/issues"
-            },
-            "time": "2020-05-07T09:07:06+00:00"
-        },
-        {
-            "name": "swissup/module-seo-canonical",
-            "version": "1.0.7",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-seo-canonical/download/1.0.7",
-                "reference": "91b633c06eec4084e7d1a1f21b5ff35d584d8a19",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/module-seo-core": "^1.2.2"
-            },
-            "type": "magento2-module",
-            "extra": {
-                "swissup": {
-                    "links": {
-                        "docs": "http://docs.swissuplabs.com/m2/extensions/seo-canonical/"
-                    }
-                }
-            },
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\SeoCanonical\\": ""
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Manage canonical URLs at your Magento 2 store",
-            "keywords": [
-                "canonical"
-            ],
-            "support": {
-                "source": "https://github.com/swissup/module-seo-canonical/tree/1.0.7",
-                "issues": "https://github.com/swissup/module-seo-canonical/issues"
-            },
-            "time": "2020-05-07T08:37:42+00:00"
-        },
-        {
-            "name": "swissup/module-seo-core",
-            "version": "1.2.4",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-seo-core/download/1.2.4",
-                "reference": "d799e53708e4b4c508c2ce249ef0ce39a80c79d4",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/module-core": "^1.10.2"
-            },
-            "suggest": {
-                "cocur/slugify": "Converts a string to a slug. Works perfectly with SEO URLs and SEO Images. Transliterate string with latinic characters."
-            },
-            "type": "magento2-module",
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\SeoCore\\": ""
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "SEO core module. It adds swissup menu and config sections.",
-            "support": {
-                "source": "https://github.com/swissup/module-seo-core/tree/1.2.4",
-                "issues": "https://github.com/swissup/module-seo-core/issues"
-            },
-            "time": "2020-07-16T09:24:41+00:00"
-        },
-        {
-            "name": "swissup/module-seo-cross-links",
-            "version": "1.0.4",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-seo-cross-links/download/1.0.4",
-                "reference": "2791ce9432548d01227a0db57a89c66c7c123ed1",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/module-seo-core": "^1.2.2"
-            },
-            "type": "magento2-module",
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\SeoCrossLinks\\": ""
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "SEO crosslinks increase the SEO value of your store",
-            "support": {
-                "source": "https://github.com/swissup/module-seo-cross-links/tree/1.0.4",
-                "issues": "https://github.com/swissup/module-seo-cross-links/issues"
-            },
-            "time": "2020-05-07T08:37:45+00:00"
-        },
-        {
-            "name": "swissup/module-seo-html-sitemap",
-            "version": "1.1.7",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-seo-html-sitemap/download/1.1.7",
-                "reference": "43fde360f35ed13ef11f38c36861a0108fcd2437",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/module-seo-core": "^1.2.4"
-            },
-            "type": "magento2-module",
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\SeoHtmlSitemap\\": ""
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Advanced HTML Sitemap for Magento 2.x e-commerce ",
-            "keywords": [
-                "seo",
-                "sitemap"
-            ],
-            "support": {
-                "source": "https://github.com/swissup/module-seo-html-sitemap/tree/1.1.7",
-                "issues": "https://github.com/swissup/module-seo-html-sitemap/issues"
-            },
-            "time": "2020-08-04T11:55:13+00:00"
-        },
-        {
-            "name": "swissup/module-seo-images",
-            "version": "1.3.6",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-seo-images/download/1.3.6",
-                "reference": "9339e3918601a313ada4d449485ef9213b5f992e",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/module-seo-core": "^1.2.4"
-            },
-            "type": "magento2-module",
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\SeoImages\\": ""
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Use pretty names for product images",
-            "keywords": [
-                "nice product image"
-            ],
-            "support": {
-                "source": "https://github.com/swissup/module-seo-images/tree/1.3.6",
-                "issues": "https://github.com/swissup/module-seo-images/issues"
-            },
-            "time": "2020-07-31T14:14:11+00:00"
-        },
-        {
-            "name": "swissup/module-seo-pager",
-            "version": "1.2.6",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-seo-pager/download/1.2.6",
-                "reference": "49fab09a215e47b1c369ca04d36bdfa1d9a9be9a",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/module-seo-core": "^1.2.4"
-            },
-            "type": "magento2-module",
-            "extra": {
-                "swissup": {
-                    "links": {
-                        "docs": "http://docs.swissuplabs.com/m2/extensions/seo-pager/",
-                        "changelog": "http://docs.swissuplabs.com/m2/extensions/seo-pager/changelog/"
-                    }
-                }
-            },
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\SeoPager\\": ""
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Improved Magento 2 pagination",
-            "keywords": [
-                "better pagination",
-                "seo pagination"
-            ],
-            "support": {
-                "source": "https://github.com/swissup/module-seo-pager/tree/1.2.6",
-                "issues": "https://github.com/swissup/module-seo-pager/issues"
-            },
-            "time": "2020-07-31T14:03:31+00:00"
-        },
-        {
-            "name": "swissup/module-seo-templates",
-            "version": "1.5.14",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-seo-templates/download/1.5.14",
-                "reference": "2aa4f3de01802a006202f39a626f1b0f9b143e11",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/module-seo-core": "^1.2.4"
-            },
-            "type": "magento2-module",
-            "extra": {
-                "swissup": {
-                    "links": {
-                        "docs": "http://docs.swissuplabs.com/m2/extensions/seo-templates/",
-                        "changelog": "http://docs.swissuplabs.com/m2/extensions/seo-templates/changelog/"
-                    }
-                }
-            },
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\SeoTemplates\\": ""
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Generate product and category metadata for Magento 2.x",
-            "keywords": [
-                "autogenerate metadata"
-            ],
-            "support": {
-                "source": "https://github.com/swissup/module-seo-templates/tree/1.5.14",
-                "issues": "https://github.com/swissup/module-seo-templates/issues"
-            },
-            "time": "2020-08-04T11:55:16+00:00"
-        },
-        {
-            "name": "swissup/module-seo-urls",
-            "version": "1.5.16",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-seo-urls/download/1.5.16",
-                "reference": "89d43c0564e7149159fbfdef484adfd09b541b19",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/module-seo-core": "^1.2.4"
-            },
-            "type": "magento2-module",
-            "extra": {
-                "swissup": {
-                    "links": {
-                        "docs": "http://docs.swissuplabs.com/m2/extensions/seo-urls/",
-                        "changelog": "http://docs.swissuplabs.com/m2/extensions/seo-urls/changelog/"
-                    }
-                }
-            },
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\SeoUrls\\": ""
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Improved Magento 2 urls",
-            "keywords": [
-                "better ursl",
-                "seo urls"
-            ],
-            "support": {
-                "source": "https://github.com/swissup/module-seo-urls/tree/1.5.16",
-                "issues": "https://github.com/swissup/module-seo-urls/issues"
-            },
-            "time": "2020-07-22T08:35:29+00:00"
-        },
-        {
-            "name": "swissup/module-seo-xml-sitemap",
-            "version": "1.1.7",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-seo-xml-sitemap/download/1.1.7",
-                "reference": "b96a429edd1f02340ab84de3ccb37ceafa186294",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/module-seo-core": "^1.2.4"
-            },
-            "type": "magento2-module",
-            "extra": {
-                "swissup": {
-                    "links": {
-                        "docs": "http://docs.swissuplabs.com/m2/extensions/seo-xml-sitemap/"
-                    }
-                }
-            },
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\SeoXmlSitemap\\": ""
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Advanced XML Sitemap for Magento 2",
-            "keywords": [
-                "xml sitemap"
-            ],
-            "support": {
-                "source": "https://github.com/swissup/module-seo-xml-sitemap/tree/1.1.7",
-                "issues": "https://github.com/swissup/module-seo-xml-sitemap/issues"
-            },
-            "time": "2020-07-31T14:05:42+00:00"
-        },
-        {
-            "name": "swissup/module-slick-carousel",
-            "version": "1.3.3",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-slick-carousel/download/1.3.3",
-                "reference": "6c411cff95092239c793c06b7068b44d1615b9cd",
-                "shasum": ""
-            },
-            "type": "magento2-module",
-            "extra": {
-                "swissup": {
-                    "links": {
-                        "docs": "http://docs.swissuplabs.com/m2/extensions/slick-carousel/",
-                        "changelog": "http://docs.swissuplabs.com/m2/extensions/slick-carousel/changelog/"
-                    }
-                }
-            },
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\SlickCarousel\\": ""
-                }
-            },
-            "license": [
-                "MIT"
-            ],
-            "description": "the last carousel you'll ever need for magento2",
-            "keywords": [
-                "carousel",
-                "slick carousel",
-                "slider"
-            ],
-            "support": {
-                "source": "https://github.com/swissup/module-slick-carousel/tree/1.3.3",
-                "issues": "https://github.com/swissup/module-slick-carousel/issues"
-            },
-            "time": "2020-02-17T09:24:18+00:00"
-        },
-        {
-            "name": "swissup/module-sold-together",
-            "version": "1.6.12",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-sold-together/download/1.6.12",
-                "reference": "a6641d6dff23e5f35bb03284c11b8306b19b3411",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/module-core": "^1.10.3",
-                "swissup/module-rtl": "^1.3.4",
-                "swissup/module-slick-carousel": "^1.3.3"
-            },
-            "type": "magento2-module",
-            "extra": {
-                "marketplace": {
-                    "gallery": [
-                        "https://docs.swissuplabs.com/images/marketplace/module-sold-together.png"
-                    ],
-                    "links": {
-                        "docs": "https://docs.swissuplabs.com/m2/extensions/module-sold-together/",
-                        "changelog": "https://docs.swissuplabs.com/m2/extensions/module-sold-together/changelog/"
-                    }
-                }
-            },
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\SoldTogether\\": ""
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Sold Together for Magento 2",
-            "support": {
-                "source": "https://github.com/swissup/module-sold-together/tree/1.6.12",
-                "issues": "https://github.com/swissup/module-sold-together/issues"
-            },
-            "time": "2020-08-04T11:55:18+00:00"
-        },
-        {
-            "name": "swissup/module-stickyfill",
-            "version": "1.2.2",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-stickyfill/download/1.2.2",
-                "reference": "e161009cd954d87ca8aa51713cc1c6cd7ec2dd06",
-                "shasum": ""
-            },
-            "type": "magento2-module",
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\Stickyfill\\": ""
-                }
-            },
-            "license": [
-                "MIT"
-            ],
-            "description": "The most accurate sticky polyfill out in the wild for Magento 2",
-            "support": {
-                "source": "https://github.com/swissup/module-stickyfill/tree/1.2.2",
-                "issues": "https://github.com/swissup/module-stickyfill/issues"
-            },
-            "time": "2020-07-30T12:42:30+00:00"
-        },
-        {
-            "name": "swissup/module-suggestpage",
-            "version": "1.2.6",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-suggestpage/download/1.2.6",
-                "reference": "3acab7b560e511ae08e2ae4d6ee1f3da188bee09",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/module-core": "^1.10.2"
-            },
-            "type": "magento2-module",
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\Suggestpage\\": ""
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "The Magento 2 module Suggest Page gives your customers custom page, shown after product was added to shopping cart",
-            "support": {
-                "source": "https://github.com/swissup/module-suggestpage/tree/1.2.6",
-                "issues": "https://github.com/swissup/module-suggestpage/issues"
-            },
-            "time": "2020-05-13T08:35:04+00:00"
-        },
-        {
-            "name": "swissup/module-testimonials",
-            "version": "1.2.11",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-testimonials/download/1.2.11",
-                "reference": "2bbeddd85ab4db8d0d176c3936492ab4bf81009e",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/module-core": "^1.10.3",
-                "swissup/module-slick-carousel": "^1.3.3"
-            },
-            "type": "magento2-module",
-            "extra": {
-                "marketplace": {
-                    "gallery": [
-                        "https://docs.swissuplabs.com/images/marketplace/module-testimonials.png"
-                    ],
-                    "links": {
-                        "docs": "https://docs.swissuplabs.com/m2/extensions/testimonials/",
-                        "changelog": "https://docs.swissuplabs.com/m2/extensions/testimonials/changelog/"
-                    }
-                }
-            },
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\Testimonials\\": ""
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Testimonials extension from Swissup",
-            "keywords": [
-                "reviews",
-                "testimonials"
-            ],
-            "support": {
-                "source": "https://github.com/swissup/module-testimonials/tree/1.2.11",
-                "issues": "https://github.com/swissup/module-testimonials/issues"
-            },
-            "time": "2020-08-04T11:55:21+00:00"
-        },
-        {
-            "name": "swissup/module-theme-editor",
-            "version": "1.8.1",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-theme-editor/download/1.8.1",
-                "reference": "20cee43e481f09e38d5fdb03066e1022fe0cbd5c",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/module-codemirror": "^1.1.6"
-            },
-            "type": "magento2-module",
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\ThemeEditor\\": ""
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Theme styles editing extension from Swissup",
-            "support": {
-                "source": "https://github.com/swissup/module-theme-editor/tree/1.8.1",
-                "issues": "https://github.com/swissup/module-theme-editor/issues"
-            },
-            "time": "2020-06-30T12:54:00+00:00"
-        },
-        {
-            "name": "swissup/module-theme-editor-argento-essence",
-            "version": "1.5.0",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-theme-editor-argento-essence/download/1.5.0",
-                "reference": "28e3c530a1aec63b4e547c6f09c8188567c38d20",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/module-theme-editor": "^1.8.0"
-            },
-            "type": "magento2-module",
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\ThemeEditorArgentoEssence\\": ""
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Theme styles for Argento Essence theme",
-            "support": {
-                "source": "https://github.com/swissup/module-theme-editor-argento-essence/tree/1.5.0",
-                "issues": "https://github.com/swissup/module-theme-editor-argento-essence/issues"
-            },
-            "time": "2020-05-07T08:20:19+00:00"
-        },
-        {
-            "name": "swissup/module-theme-editor-argento-flat",
-            "version": "1.5.0",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-theme-editor-argento-flat/download/1.5.0",
-                "reference": "eac76a24625ddc0ce92ce0c21a5a9ced92e69bd8",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/module-theme-editor": "^1.8.0"
-            },
-            "type": "magento2-module",
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\ThemeEditorArgentoFlat\\": ""
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Theme styles for Argento Flat theme",
-            "support": {
-                "source": "https://github.com/swissup/module-theme-editor-argento-flat/tree/1.5.0",
-                "issues": "https://github.com/swissup/module-theme-editor-argento-flat/issues"
-            },
-            "time": "2020-05-07T08:20:22+00:00"
-        },
-        {
-            "name": "swissup/module-theme-editor-argento-force",
-            "version": "1.2.0",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-theme-editor-argento-force/download/1.2.0",
-                "reference": "adfe698e2f1b80792499bd11078672bf704fd3e2",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/module-theme-editor": "^1.8.0"
-            },
-            "type": "magento2-module",
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\ThemeEditorArgentoForce\\": ""
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Theme styles for Argento Force theme",
-            "support": {
-                "source": "https://github.com/swissup/module-theme-editor-argento-force/tree/1.2.0",
-                "issues": "https://github.com/swissup/module-theme-editor-argento-force/issues"
-            },
-            "time": "2020-05-07T08:20:25+00:00"
-        },
-        {
-            "name": "swissup/module-theme-editor-argento-luxury",
-            "version": "1.5.0",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-theme-editor-argento-luxury/download/1.5.0",
-                "reference": "6ba2e29b6a98c45c7f75fc3844f2f23214027f96",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/module-theme-editor": "^1.8.0"
-            },
-            "type": "magento2-module",
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\ThemeEditorArgentoLuxury\\": ""
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Theme styles for Argento Luxury theme",
-            "support": {
-                "source": "https://github.com/swissup/module-theme-editor-argento-luxury/tree/1.5.0",
-                "issues": "https://github.com/swissup/module-theme-editor-argento-luxury/issues"
-            },
-            "time": "2020-05-07T08:20:28+00:00"
-        },
-        {
-            "name": "swissup/module-theme-editor-argento-mall",
-            "version": "1.5.0",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-theme-editor-argento-mall/download/1.5.0",
-                "reference": "3a270d98ca803694947f0d7283e20982be5417d5",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/module-theme-editor": "^1.8.0"
-            },
-            "type": "magento2-module",
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\ThemeEditorArgentoMall\\": ""
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Theme styles for Argento Mall theme",
-            "support": {
-                "source": "https://github.com/swissup/module-theme-editor-argento-mall/tree/1.5.0",
-                "issues": "https://github.com/swissup/module-theme-editor-argento-mall/issues"
-            },
-            "time": "2020-05-07T08:11:39+00:00"
-        },
-        {
-            "name": "swissup/module-theme-editor-argento-pure2",
-            "version": "1.5.0",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-theme-editor-argento-pure2/download/1.5.0",
-                "reference": "1b40e429879edb9cf54e3e4fa1f20d3ac51caf81",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/module-theme-editor": "^1.8.0"
-            },
-            "type": "magento2-module",
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\ThemeEditorArgentoPure2\\": ""
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Theme styles for Argento Pure2 theme",
-            "support": {
-                "source": "https://github.com/swissup/module-theme-editor-argento-pure2/tree/1.5.0",
-                "issues": "https://github.com/swissup/module-theme-editor-argento-pure2/issues"
-            },
-            "time": "2020-05-07T08:20:16+00:00"
-        },
-        {
-            "name": "swissup/module-theme-editor-argento-stripes",
-            "version": "1.5.0",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/module-theme-editor-argento-stripes/download/1.5.0",
-                "reference": "46c4606909c6809b341aa73234b2139a4a8d6f42",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/module-theme-editor": "^1.8.0"
-            },
-            "type": "magento2-module",
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Swissup\\ThemeEditorArgentoStripes\\": ""
-                }
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Theme styles for Argento Stripes theme",
-            "support": {
-                "source": "https://github.com/swissup/module-theme-editor-argento-stripes/tree/1.5.0",
-                "issues": "https://github.com/swissup/module-theme-editor-argento-stripes/issues"
-            },
-            "time": "2020-05-07T08:11:45+00:00"
-        },
-        {
-            "name": "swissup/theme-frontend-argento-blank",
-            "version": "1.19.0",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/theme-frontend-argento-blank/download/1.19.0",
-                "reference": "ddf70f1cd4b166904bc491456b115bf879bac9f7",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/module-rtl": "^1.3.4"
-            },
-            "type": "magento2-theme",
-            "extra": {
-                "marketplace": {
-                    "gallery": [
-                        "https://docs.swissuplabs.com/images/marketplace/theme-frontend-argento-blank.png"
-                    ],
-                    "links": {
-                        "docs": "https://docs.swissuplabs.com/m2/argento/",
-                        "changelog": "https://docs.swissuplabs.com/m2/argento/changelog/"
-                    }
-                }
-            },
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ]
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Basic theme for all Argento themes",
-            "keywords": [
-                "argento",
-                "blank",
-                "responsive template",
-                "responsive theme",
-                "template",
-                "theme"
-            ],
-            "support": {
-                "source": "https://github.com/swissup/theme-frontend-argento-blank/tree/1.19.0",
-                "issues": "https://github.com/swissup/theme-frontend-argento-blank/issues"
-            },
-            "time": "2020-08-05T06:56:55+00:00"
-        },
-        {
-            "name": "swissup/theme-frontend-argento-essence",
-            "version": "1.19.0",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/theme-frontend-argento-essence/download/1.19.0",
-                "reference": "b3b709d581a2e570742d8f5696d43b2f21e80db0",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/theme-frontend-argento-blank": "*"
-            },
-            "type": "magento2-theme",
-            "extra": {
-                "swissup": {
-                    "purchase_code": "TM_ArgentoArgento",
-                    "links": {
-                        "marketplace": "https://marketplace.magento.com/swissup-argento-m2.html",
-                        "store": "http://argentotheme.com/",
-                        "download": "https://argentotheme.com/downloadable/customer/products/",
-                        "identity_key": "https://argentotheme.com/license/customer/activation/",
-                        "docs": "http://docs.swissuplabs.com/m2/argento/",
-                        "changelog": "http://docs.swissuplabs.com/m2/argento/changelog/"
-                    }
-                },
-                "marketplace": {
-                    "gallery": [
-                        "https://docs.swissuplabs.com/images/marketplace/theme-frontend-argento-essence.png"
-                    ],
-                    "links": {
-                        "docs": "https://docs.swissuplabs.com/m2/argento/",
-                        "changelog": "https://docs.swissuplabs.com/m2/argento/changelog/"
-                    }
-                }
-            },
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ]
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Most advanced responsive theme for Magento",
-            "keywords": [
-                "argento",
-                "essence",
-                "responsive template",
-                "responsive theme",
-                "template",
-                "theme"
-            ],
-            "support": {
-                "source": "https://github.com/swissup/theme-frontend-argento-essence/tree/1.19.0",
-                "issues": "https://github.com/swissup/theme-frontend-argento-essence/issues"
-            },
-            "time": "2020-08-05T06:46:20+00:00"
-        },
-        {
-            "name": "swissup/theme-frontend-argento-flat",
-            "version": "1.19.0",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/theme-frontend-argento-flat/download/1.19.0",
-                "reference": "75ebc7679394aae28552585a5eba43bc487714cf",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/theme-frontend-argento-blank": "*"
-            },
-            "type": "magento2-theme",
-            "extra": {
-                "swissup": {
-                    "purchase_code": "TM_ArgentoArgento",
-                    "links": {
-                        "marketplace": "https://marketplace.magento.com/swissup-argento-m2.html",
-                        "store": "http://argentotheme.com/",
-                        "download": "https://argentotheme.com/downloadable/customer/products/",
-                        "identity_key": "https://argentotheme.com/license/customer/activation/",
-                        "docs": "http://docs.swissuplabs.com/m2/argento/",
-                        "changelog": "http://docs.swissuplabs.com/m2/argento/changelog/"
-                    }
-                },
-                "marketplace": {
-                    "gallery": [
-                        "https://docs.swissuplabs.com/images/marketplace/theme-frontend-argento-flat.png"
-                    ],
-                    "links": {
-                        "docs": "https://docs.swissuplabs.com/m2/argento/",
-                        "changelog": "https://docs.swissuplabs.com/m2/argento/changelog/"
-                    }
-                }
-            },
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ]
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Most advanced responsive theme for Magento",
-            "keywords": [
-                "argento",
-                "flat",
-                "responsive template",
-                "responsive theme",
-                "template",
-                "theme"
-            ],
-            "support": {
-                "source": "https://github.com/swissup/theme-frontend-argento-flat/tree/1.19.0",
-                "issues": "https://github.com/swissup/theme-frontend-argento-flat/issues"
-            },
-            "time": "2020-08-05T06:46:23+00:00"
-        },
-        {
-            "name": "swissup/theme-frontend-argento-force",
-            "version": "1.19.0",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/theme-frontend-argento-force/download/1.19.0",
-                "reference": "1a982eecb46605e63092f0a26b58a0db2c39d3d4",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/theme-frontend-argento-blank": "*"
-            },
-            "type": "magento2-theme",
-            "extra": {
-                "swissup": {
-                    "purchase_code": "TM_ArgentoArgento",
-                    "links": {
-                        "marketplace": "https://marketplace.magento.com/swissup-argento-m2.html",
-                        "store": "http://argentotheme.com/",
-                        "download": "https://argentotheme.com/downloadable/customer/products/",
-                        "identity_key": "https://argentotheme.com/license/customer/activation/",
-                        "docs": "http://docs.swissuplabs.com/m2/argento/",
-                        "changelog": "http://docs.swissuplabs.com/m2/argento/changelog/"
-                    }
-                },
-                "marketplace": {
-                    "gallery": [
-                        "https://docs.swissuplabs.com/images/marketplace/theme-frontend-argento-force.png"
-                    ],
-                    "links": {
-                        "docs": "https://docs.swissuplabs.com/m2/argento/",
-                        "changelog": "https://docs.swissuplabs.com/m2/argento/changelog/"
-                    }
-                }
-            },
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ]
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Most advanced responsive theme for Magento",
-            "keywords": [
-                "argento",
-                "force",
-                "responsive template",
-                "responsive theme",
-                "template",
-                "theme"
-            ],
-            "support": {
-                "source": "https://github.com/swissup/theme-frontend-argento-force/tree/1.19.0",
-                "issues": "https://github.com/swissup/theme-frontend-argento-force/issues"
-            },
-            "time": "2020-08-05T06:46:26+00:00"
-        },
-        {
-            "name": "swissup/theme-frontend-argento-luxury",
-            "version": "1.19.0",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/theme-frontend-argento-luxury/download/1.19.0",
-                "reference": "489a92dcc2f21392b056928d47b73a5a36210359",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/theme-frontend-argento-blank": "*"
-            },
-            "type": "magento2-theme",
-            "extra": {
-                "swissup": {
-                    "purchase_code": "TM_ArgentoArgento",
-                    "links": {
-                        "marketplace": "https://marketplace.magento.com/swissup-argento-m2.html",
-                        "store": "http://argentotheme.com/",
-                        "download": "https://argentotheme.com/downloadable/customer/products/",
-                        "identity_key": "https://argentotheme.com/license/customer/activation/",
-                        "docs": "http://docs.swissuplabs.com/m2/argento/",
-                        "changelog": "http://docs.swissuplabs.com/m2/argento/changelog/"
-                    }
-                },
-                "marketplace": {
-                    "gallery": [
-                        "https://docs.swissuplabs.com/images/marketplace/theme-frontend-argento-luxury.png"
-                    ],
-                    "links": {
-                        "docs": "https://docs.swissuplabs.com/m2/argento/",
-                        "changelog": "https://docs.swissuplabs.com/m2/argento/changelog/"
-                    }
-                }
-            },
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ]
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Most advanced responsive theme for Magento",
-            "keywords": [
-                "argento",
-                "luxury",
-                "responsive template",
-                "responsive theme",
-                "template",
-                "theme"
-            ],
-            "support": {
-                "source": "https://github.com/swissup/theme-frontend-argento-luxury/tree/1.19.0",
-                "issues": "https://github.com/swissup/theme-frontend-argento-luxury/issues"
-            },
-            "time": "2020-08-05T06:46:29+00:00"
-        },
-        {
-            "name": "swissup/theme-frontend-argento-mall",
-            "version": "1.19.0",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/theme-frontend-argento-mall/download/1.19.0",
-                "reference": "f3035d3cc990289e2997fc0cb8b92432fa6492df",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/theme-frontend-argento-blank": "*"
-            },
-            "type": "magento2-theme",
-            "extra": {
-                "swissup": {
-                    "purchase_code": "TM_ArgentoArgento",
-                    "links": {
-                        "marketplace": "https://marketplace.magento.com/swissup-argento-m2.html",
-                        "store": "http://argentotheme.com/",
-                        "download": "https://argentotheme.com/downloadable/customer/products/",
-                        "identity_key": "https://argentotheme.com/license/customer/activation/",
-                        "docs": "http://docs.swissuplabs.com/m2/argento/",
-                        "changelog": "http://docs.swissuplabs.com/m2/argento/changelog/"
-                    }
-                },
-                "marketplace": {
-                    "gallery": [
-                        "https://docs.swissuplabs.com/images/marketplace/theme-frontend-argento-mall.png"
-                    ],
-                    "links": {
-                        "docs": "https://docs.swissuplabs.com/m2/argento/",
-                        "changelog": "https://docs.swissuplabs.com/m2/argento/changelog/"
-                    }
-                }
-            },
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ]
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Most advanced responsive theme for Magento",
-            "keywords": [
-                "argento",
-                "mall",
-                "responsive template",
-                "responsive theme",
-                "template",
-                "theme"
-            ],
-            "support": {
-                "source": "https://github.com/swissup/theme-frontend-argento-mall/tree/1.19.0",
-                "issues": "https://github.com/swissup/theme-frontend-argento-mall/issues"
-            },
-            "time": "2020-08-05T06:46:31+00:00"
-        },
-        {
-            "name": "swissup/theme-frontend-argento-pure2",
-            "version": "1.19.0",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/theme-frontend-argento-pure2/download/1.19.0",
-                "reference": "535665cb897e4646a160fa8101cd2e9205e4eac4",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/theme-frontend-argento-blank": "*"
-            },
-            "type": "magento2-theme",
-            "extra": {
-                "swissup": {
-                    "purchase_code": "TM_ArgentoArgento",
-                    "links": {
-                        "marketplace": "https://marketplace.magento.com/swissup-argento-m2.html",
-                        "store": "http://argentotheme.com/",
-                        "download": "https://argentotheme.com/downloadable/customer/products/",
-                        "identity_key": "https://argentotheme.com/license/customer/activation/",
-                        "docs": "http://docs.swissuplabs.com/m2/argento/",
-                        "changelog": "http://docs.swissuplabs.com/m2/argento/changelog/"
-                    }
-                },
-                "marketplace": {
-                    "gallery": [
-                        "https://docs.swissuplabs.com/images/marketplace/theme-frontend-argento-pure2.png"
-                    ],
-                    "links": {
-                        "docs": "https://docs.swissuplabs.com/m2/argento/",
-                        "changelog": "https://docs.swissuplabs.com/m2/argento/changelog/"
-                    }
-                }
-            },
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ]
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Most advanced responsive theme for Magento",
-            "keywords": [
-                "argento",
-                "pure2",
-                "responsive template",
-                "responsive theme",
-                "template",
-                "theme"
-            ],
-            "support": {
-                "source": "https://github.com/swissup/theme-frontend-argento-pure2/tree/1.19.0",
-                "issues": "https://github.com/swissup/theme-frontend-argento-pure2/issues"
-            },
-            "time": "2020-08-05T06:46:34+00:00"
-        },
-        {
-            "name": "swissup/theme-frontend-argento-stripes",
-            "version": "1.19.0",
-            "dist": {
-                "type": "zip",
-                "url": "https://ci.swissuplabs.com/api/swissup/theme-frontend-argento-stripes/download/1.19.0",
-                "reference": "caf67d637eba2b3819efdd61effcce46e1e1ac68",
-                "shasum": ""
-            },
-            "require": {
-                "swissup/theme-frontend-argento-blank": "*"
-            },
-            "type": "magento2-theme",
-            "extra": {
-                "swissup": {
-                    "purchase_code": "TM_ArgentoArgento",
-                    "links": {
-                        "marketplace": "https://marketplace.magento.com/swissup-argento-m2.html",
-                        "store": "http://argentotheme.com/",
-                        "download": "https://argentotheme.com/downloadable/customer/products/",
-                        "identity_key": "https://argentotheme.com/license/customer/activation/",
-                        "docs": "http://docs.swissuplabs.com/m2/argento/",
-                        "changelog": "http://docs.swissuplabs.com/m2/argento/changelog/"
-                    }
-                },
-                "marketplace": {
-                    "gallery": [
-                        "https://docs.swissuplabs.com/images/marketplace/theme-frontend-argento-stripes.png"
-                    ],
-                    "links": {
-                        "docs": "https://docs.swissuplabs.com/m2/argento/",
-                        "changelog": "https://docs.swissuplabs.com/m2/argento/changelog/"
-                    }
-                }
-            },
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ]
-            },
-            "license": [
-                "OSL-3.0"
-            ],
-            "description": "Most advanced responsive theme for Magento",
-            "keywords": [
-                "argento",
-                "responsive template",
-                "responsive theme",
-                "stripes",
-                "template",
-                "theme"
-            ],
-            "support": {
-                "source": "https://github.com/swissup/theme-frontend-argento-stripes/tree/1.19.0",
-                "issues": "https://github.com/swissup/theme-frontend-argento-stripes/issues"
-            },
-            "time": "2020-08-05T06:46:37+00:00"
         },
         {
             "name": "symfony/console",
@@ -18650,6 +15322,20 @@
                 "polyfill",
                 "portable"
             ],
+            "funding": [
+                {
+                    "url": "https://symfony.com/sponsor",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/fabpot",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
+                    "type": "tidelift"
+                }
+            ],
             "time": "2020-07-14T12:35:20+00:00"
         },
         {
@@ -18713,6 +15399,20 @@
                 "polyfill",
                 "portable",
                 "shim"
+            ],
+            "funding": [
+                {
+                    "url": "https://symfony.com/sponsor",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/fabpot",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
+                    "type": "tidelift"
+                }
             ],
             "time": "2020-07-14T12:35:20+00:00"
         },
@@ -18785,6 +15485,20 @@
                 "portable",
                 "shim"
             ],
+            "funding": [
+                {
+                    "url": "https://symfony.com/sponsor",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/fabpot",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
+                    "type": "tidelift"
+                }
+            ],
             "time": "2020-08-04T06:02:08+00:00"
         },
         {
@@ -18852,6 +15566,20 @@
                 "portable",
                 "shim"
             ],
+            "funding": [
+                {
+                    "url": "https://symfony.com/sponsor",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/fabpot",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
+                    "type": "tidelift"
+                }
+            ],
             "time": "2020-07-14T12:35:20+00:00"
         },
         {
@@ -18915,6 +15643,20 @@
                 "portable",
                 "shim"
             ],
+            "funding": [
+                {
+                    "url": "https://symfony.com/sponsor",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/fabpot",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
+                    "type": "tidelift"
+                }
+            ],
             "time": "2020-07-14T12:35:20+00:00"
         },
         {
@@ -18974,6 +15716,20 @@
                 "polyfill",
                 "portable",
                 "shim"
+            ],
+            "funding": [
+                {
+                    "url": "https://symfony.com/sponsor",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/fabpot",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
+                    "type": "tidelift"
+                }
             ],
             "time": "2020-07-14T12:35:20+00:00"
         },
@@ -19038,6 +15794,20 @@
                 "portable",
                 "shim"
             ],
+            "funding": [
+                {
+                    "url": "https://symfony.com/sponsor",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/fabpot",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
+                    "type": "tidelift"
+                }
+            ],
             "time": "2020-07-14T12:35:20+00:00"
         },
         {
@@ -19096,6 +15866,20 @@
                 "polyfill",
                 "portable",
                 "shim"
+            ],
+            "funding": [
+                {
+                    "url": "https://symfony.com/sponsor",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/fabpot",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
+                    "type": "tidelift"
+                }
             ],
             "time": "2020-07-14T12:35:20+00:00"
         },
@@ -19158,6 +15942,20 @@
                 "polyfill",
                 "portable",
                 "shim"
+            ],
+            "funding": [
+                {
+                    "url": "https://symfony.com/sponsor",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/fabpot",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
+                    "type": "tidelift"
+                }
             ],
             "time": "2020-07-14T12:35:20+00:00"
         },
@@ -19225,6 +16023,20 @@
                 "portable",
                 "shim"
             ],
+            "funding": [
+                {
+                    "url": "https://symfony.com/sponsor",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/fabpot",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
+                    "type": "tidelift"
+                }
+            ],
             "time": "2020-07-14T12:35:20+00:00"
         },
         {
@@ -19280,6 +16092,20 @@
                 "compatibility",
                 "polyfill",
                 "shim"
+            ],
+            "funding": [
+                {
+                    "url": "https://symfony.com/sponsor",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/fabpot",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
+                    "type": "tidelift"
+                }
             ],
             "time": "2020-07-14T12:35:20+00:00"
         },
@@ -20329,16 +17155,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.147.11",
+            "version": "3.147.13",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "3ec07169c15bb05f587be47bf6f393df5ebf8f75"
+                "reference": "e3354b0aedea5f2b0e22e6932cc9e65d98657836"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/3ec07169c15bb05f587be47bf6f393df5ebf8f75",
-                "reference": "3ec07169c15bb05f587be47bf6f393df5ebf8f75",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/e3354b0aedea5f2b0e22e6932cc9e65d98657836",
+                "reference": "e3354b0aedea5f2b0e22e6932cc9e65d98657836",
                 "shasum": ""
             },
             "require": {
@@ -20410,7 +17236,7 @@
                 "s3",
                 "sdk"
             ],
-            "time": "2020-08-03T21:12:57+00:00"
+            "time": "2020-08-05T18:16:36+00:00"
         },
         {
             "name": "behat/gherkin",
@@ -22747,16 +19573,16 @@
         },
         {
             "name": "phpstan/phpstan",
-            "version": "0.12.34",
+            "version": "0.12.36",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpstan/phpstan.git",
-                "reference": "ad75388d71fb0b4a954f71a852fd989915a51cb7"
+                "reference": "eaeff985e395ff4e7aebf3251a43fca6c9be1af3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpstan/phpstan/zipball/ad75388d71fb0b4a954f71a852fd989915a51cb7",
-                "reference": "ad75388d71fb0b4a954f71a852fd989915a51cb7",
+                "url": "https://api.github.com/repos/phpstan/phpstan/zipball/eaeff985e395ff4e7aebf3251a43fca6c9be1af3",
+                "reference": "eaeff985e395ff4e7aebf3251a43fca6c9be1af3",
                 "shasum": ""
             },
             "require": {
@@ -22785,7 +19611,21 @@
                 "MIT"
             ],
             "description": "PHPStan - PHP Static Analysis Tool",
-            "time": "2020-07-30T15:31:10+00:00"
+            "funding": [
+                {
+                    "url": "https://github.com/ondrejmirtes",
+                    "type": "github"
+                },
+                {
+                    "url": "https://www.patreon.com/phpstan",
+                    "type": "patreon"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/phpstan/phpstan",
+                    "type": "tidelift"
+                }
+            ],
+            "time": "2020-08-05T09:29:40+00:00"
         },
         {
             "name": "phpunit/php-code-coverage",
