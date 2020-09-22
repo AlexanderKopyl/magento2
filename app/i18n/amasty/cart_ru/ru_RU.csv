@@ -1,0 +1,111 @@
+Installed,Установлен,module,Amasty_Cart
+"Not Installed","Не установлен",module,Amasty_Cart
+"Please update Amasty Base module. Re-upload it and replace all the files.","Please update Amasty Base module. Re-upload it and replace all the files.",module,Amasty_Cart
+"We can't add this item to your shopping cart right now. Please reload the page.","We can't add this item to your shopping cart right now. Please reload the page.",module,Amasty_Cart
+"We can't add this item to your shopping cart right now.","We can't add this item to your shopping cart right now.",module,Amasty_Cart
+"%1 has been added to your cart","%1 добавлен в корзину",module,Amasty_Cart
+"Please specify the quantity of product(s).","Please specify the quantity of product(s).",module,Amasty_Cart
+"You need to choose options for your item.","You need to choose options for your item.",module,Amasty_Cart
+"Continue shopping","Продолжить покупки",module,Amasty_Cart
+Cancel,Отмена,module,Amasty_Cart
+"Set options","Set options",module,Amasty_Cart
+"Add to cart","Купить",module,Amasty_Cart
+"There is","Всего",module,Amasty_Cart
+" item"," товар",module,Amasty_Cart
+"There are","Всего",module,Amasty_Cart
+" items"," товара",module,Amasty_Cart
+"View Cart","В корзину",module,Amasty_Cart
+" in your cart."," в корзине.",module,Amasty_Cart
+"Cart Subtotal:","Общая сумма:",module,Amasty_Cart
+Information,Информация,module,Amasty_Cart
+"Continue","Продолжить покупки",module,Amasty_Cart
+"Go to Checkout","Оформить заказ",module,Amasty_Cart
+"%1 has been added to your cart.","%1 добавлен в корзину.",module,Amasty_Cart
+"We can't add this item to your shopping cart.","We can't add this item to your shopping cart.",module,Amasty_Cart
+"We can't find the quote item.","We can't find the quote item.",module,Amasty_Cart
+"%1 was updated in your shopping cart.","%1 was updated in your shopping cart.",module,Amasty_Cart
+"We can't update the item right now.","We can't update the item right now.",module,Amasty_Cart
+"This product(s) is out of stock.","This product(s) is out of stock.",module,Amasty_Cart
+"We can't add the item to the cart right now.","We can't add the item to the cart right now.",module,Amasty_Cart
+"in your cart","в корзине",module,Amasty_Cart
+"More Choices:","More Choices:",module,Amasty_Cart
+"You may be interested in the following items","You may be interested in the following items",module,Amasty_Cart
+Center,В центре,module,Amasty_Cart
+Top,Вверху,module,Amasty_Cart
+"Top Left","Вверху слева",module,Amasty_Cart
+"Top Right","Вверху справа",module,Amasty_Cart
+Left,Слева,module,Amasty_Cart
+Right,Справа,module,Amasty_Cart
+None,Нету,module,Amasty_Cart
+Related,Related,module,Amasty_Cart
+Cross-sell,Cross-sell,module,Amasty_Cart
+"Stay on Current Page","Оставаться на текущей странице",module,Amasty_Cart
+"Go to Category Page","Go to Category Page",module,Amasty_Cart
+"Parent Configurable Product Image","Parent Configurable Product Image",module,Amasty_Cart
+"Child Simple Product Image","Child Simple Product Image",module,Amasty_Cart
+"Mini Product Page","Mini Product Page",module,Amasty_Cart
+"Custom Options & Product Qty","Custom Options & Product Qty",module,Amasty_Cart
+"Product Image","Product Image",module,Amasty_Cart
+"Product Quantity Field","Product Quantity Field",module,Amasty_Cart
+"Number of Products in Cart","Number of Products in Cart",module,Amasty_Cart
+"Cart Subtotal","Cart Subtotal",module,Amasty_Cart
+"Go to Checkout Button","Go to Checkout Button",module,Amasty_Cart
+"Show Only if There Are Required Options","Show Only if There Are Required Options",module,Amasty_Cart
+"Always Show All Custom Options","Always Show All Custom Options",module,Amasty_Cart
+"has been added to your cart","добавлен в корзину",module,Amasty_Cart
+"%1 has been added to your Wish List.","%1 has been added to your Wish List.",module,Amasty_Cart
+"Add to Wish List","Add to Wish List",module,Amasty_Cart
+"Add to Compare","Добавить в стравнение",module,Amasty_Cart
+"Add to Cart","Add to Cart",module,Amasty_Cart
+"In stock","В наличии",module,Amasty_Cart
+"Out of stock","Нет в наличии",module,Amasty_Cart
+"Please choose the options for your item","Please choose the options for your item",module,Amasty_Cart
+Qty,Qty,module,Amasty_Cart
+Update,Обновить,module,Amasty_Cart
+Close,Закрыть,module,Amasty_Cart
+"Ajax Shopping Cart","Ajax Shopping Cart",module,Amasty_Cart
+General,General,module,Amasty_Cart
+"Enable Ajax Shopping Cart","Enable Ajax Shopping Cart",module,Amasty_Cart
+"Enable Flying Image Effect","Enable Flying Image Effect",module,Amasty_Cart
+"Set to ‘Yes' for a nice-looking visual effect. The product image 'flies' to the 'Top Cart' block in the top menu.","Set to ‘Yes' for a nice-looking visual effect. The product image 'flies' to the 'Top Cart' block in the top menu.",module,Amasty_Cart
+"Show the Product Qty Added to the Cart on the Product Listing","Show the Product Qty Added to the Cart on the Product Listing",module,Amasty_Cart
+"Add Products to Compare with AJAX","Add Products to Compare with AJAX",module,Amasty_Cart
+"Add Products to Wish List with AJAX","Add Products to Wish List with AJAX",module,Amasty_Cart
+"Show a Mini Cart once Item is Added","Show a Mini Cart once Item is Added",module,Amasty_Cart
+"Set 'Yes' to Show a Mini Cart instead of Confirmation Pop-up once an item is added to the cart.","Set 'Yes' to Show a Mini Cart instead of Confirmation Pop-up once an item is added to the cart.",module,Amasty_Cart
+"Dialog Pop-up","Dialog Pop-up",module,Amasty_Cart
+"Redirect to the Product Page","Redirect to the Product Page",module,Amasty_Cart
+"Display Custom Options","Display Custom Options",module,Amasty_Cart
+"Customers can select configurable products and custom options right on the category page. If the 'Show Only If There Are Required Options' is enabled and a product has at least one required option, all custom options including the required ones are shown.","Customers can select configurable products and custom options right on the category page. If the 'Show Only If There Are Required Options' is enabled and a product has at least one required option, all custom options including the required ones are shown.",module,Amasty_Cart
+"Pop-up for Composite Products","Pop-up for Composite Products",module,Amasty_Cart
+"QTY Instant Change","QTY Instant Change",module,Amasty_Cart
+"Choose yes, if you want to change the qty in the cart immediately after changing the qty in the dialog pop-up","Choose yes, if you want to change the qty in the cart immediately after changing the qty in the dialog pop-up",module,Amasty_Cart
+"Confirmation Pop-up","Confirmation Pop-up",module,Amasty_Cart
+"Dialog Close Delay (in seconds)","Dialog Close Delay (in seconds)",module,Amasty_Cart
+"Set a timer for the Continue button. When the preset period expires, the dialog box disappears. If set to 0, dialog won’t be hidden automatically.","Set a timer for the Continue button. When the preset period expires, the dialog box disappears. If set to 0, dialog won’t be hidden automatically.",module,Amasty_Cart
+"Enable a Confirmation Pop-up on a Product Page","Enable a Confirmation Pop-up on a Product Page",module,Amasty_Cart
+"Continue Button Action on a Product Page","Continue Button Action on a Product Page",module,Amasty_Cart
+"Choose whether the Continue button on a product view page should link to the category page or remain on the product page.","Choose whether the Continue button on a product view page should link to the category page or remain on the product page.",module,Amasty_Cart
+"Confirmation Pop-up Display","Confirmation Pop-up Display",module,Amasty_Cart
+"Align Pop-up","Align Pop-up",module,Amasty_Cart
+"Choose where to locate the cart pop-up - Center, Top, Top left, Top right, Left, Right.","Choose where to locate the cart pop-up - Center, Top, Top left, Top right, Left, Right.",module,Amasty_Cart
+"Image Display for Configurable Products","Image Display for Configurable Products",module,Amasty_Cart
+"Choose to display a Parent Configurable Product Image or a Child Simple Product Image.","Choose to display a Parent Configurable Product Image or a Child Simple Product Image.",module,Amasty_Cart
+"Display in Pop-up","Display in Pop-up",module,Amasty_Cart
+"Choose what to display in the Confirmation Pup-up","Choose what to display in the Confirmation Pup-up",module,Amasty_Cart
+"Selling Options","Selling Options",module,Amasty_Cart
+"Product Block Type Displayed in the Confirmation Pop-up","Product Block Type Displayed in the Confirmation Pop-up",module,Amasty_Cart
+Title,Title,module,Amasty_Cart
+Subtitle,Subtitle,module,Amasty_Cart
+"Products Qty Limit","Products Qty Limit",module,Amasty_Cart
+"If more than 2 then slider is activated","If more than 2 then slider is activated",module,Amasty_Cart
+"Visual Options","Visual Options",module,Amasty_Cart
+"Background Color","Background Color",module,Amasty_Cart
+"Product Name Color","Product Name Color",module,Amasty_Cart
+"Text Color","Text Color",module,Amasty_Cart
+"Button Text Color","Button Text Color",module,Amasty_Cart
+"Continue Button Color","Continue Button Color",module,Amasty_Cart
+"View Cart Button Color","View Cart Button Color",module,Amasty_Cart
+"Automatic Related Products","Automatic Related Products",module,Amasty_Cart
+Status,Статус,module,Amasty_Cart
+"Power it with the Automatic Related Products Extension. See more details <a target=""_blank"" href=""https://amasty.com/automatic-related-products-for-magento-2.html?utm_source=extension&utm_medium=backend&utm_campaign=cart_mostviewed_m2"">here</a>.","Power it with the Automatic Related Products Extension. See more details <a target=""_blank"" href=""https://amasty.com/automatic-related-products-for-magento-2.html?utm_source=extension&utm_medium=backend&utm_campaign=cart_mostviewed_m2"">here</a>.",module,Amasty_Cart

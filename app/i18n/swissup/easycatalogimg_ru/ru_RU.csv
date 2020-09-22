@@ -1,0 +1,29 @@
+Run,Run,module,Swissup_Easycatalogimg
+"Please select the checkbox above","Please select the checkbox above",module,Swissup_Easycatalogimg
+"%1 is not writable","%1 is not writable",module,Swissup_Easycatalogimg
+"More in %1...","Еще в %1...",module,Swissup_Easycatalogimg
+"Completed. {count} items were processed.","Completed. {count} items were processed.",module,Swissup_Easycatalogimg
+Success,Success,module,Swissup_Easycatalogimg
+"An error occured:","An error occured:",module,Swissup_Easycatalogimg
+"Easy Catalog Images","Easy Catalog Images",module,Swissup_Easycatalogimg
+"Use category image, when thumbnail is not available","Use category image, when thumbnail is not available",module,Swissup_Easycatalogimg
+"Use image helper to resize images","Use image helper to resize images",module,Swissup_Easycatalogimg
+"Background color","Background color",module,Swissup_Easycatalogimg
+"Image placeholder","Image placeholder",module,Swissup_Easycatalogimg
+"Allowed file types:PNG, GIF, JPG, JPEG, SVG.","Allowed file types:PNG, GIF, JPG, JPEG, SVG.",module,Swissup_Easycatalogimg
+"Category page","Category page",module,Swissup_Easycatalogimg
+"Enabled for default categories","Enabled for default categories",module,Swissup_Easycatalogimg
+"Enabled for anchor categories","Enabled for anchor categories",module,Swissup_Easycatalogimg
+"Hidden, when filter or pagination is used","Hidden, when filter or pagination is used",module,Swissup_Easycatalogimg
+"Number of categories to show","Number of categories to show",module,Swissup_Easycatalogimg
+"Columns count","Columns count",module,Swissup_Easycatalogimg
+"Show images","Show images",module,Swissup_Easycatalogimg
+"Image width","Image width",module,Swissup_Easycatalogimg
+"Image height","Image height",module,Swissup_Easycatalogimg
+"Number of subcategories to show","Number of subcategories to show",module,Swissup_Easycatalogimg
+"Automated Image Assignment","Automated Image Assignment",module,Swissup_Easycatalogimg
+"Fill category thumbnails","Fill category thumbnails",module,Swissup_Easycatalogimg
+"Search in child categories","Search in child categories",module,Swissup_Easycatalogimg
+"Select Category...","Select Category...",module,Swissup_Easycatalogimg
+"Categories to show","Categories to show",module,Swissup_Easycatalogimg
+"Categories to hide","Categories to hide",module,Swissup_Easycatalogimg

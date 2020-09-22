@@ -1,0 +1,315 @@
+Delete,Delete,Amasty_AdvancedReview
+"Are you sure you want to delete this?","Are you sure you want to delete this?",Amasty_AdvancedReview
+"Save and Continue Edit","Save and Continue Edit",Amasty_AdvancedReview
+Save,Save,Amasty_AdvancedReview
+"Please update Amasty Base module. Re-upload it and replace all the files.","Please update Amasty Base module. Re-upload it and replace all the files.",Amasty_AdvancedReview
+"Enable reviewpagebuilder module to activate PageBuilder and Advanced Reviews integration. Please, run the following command in the SSH: composer require amasty/advanced-reviews-page-builder","Enable reviewpagebuilder module to activate PageBuilder and Advanced Reviews integration. Please, run the following command in the SSH: composer require amasty/advanced-reviews-page-builder",Amasty_AdvancedReview
+"Enable advanced-review-graphql module to activate GraphQl and Advanced Review. Please, run the following command in the SSH: composer require amasty/advanced-review-graphql","Enable advanced-review-graphql module to activate GraphQl and Advanced Review. Please, run the following command in the SSH: composer require amasty/advanced-review-graphql",Amasty_AdvancedReview
+"%1 year(s) ago","%1 year(s) ago",Amasty_AdvancedReview
+"%1 month(s) ago","%1 month(s) ago",Amasty_AdvancedReview
+"%1 day(s) ago","%1 day(s) ago",Amasty_AdvancedReview
+"%1 hour(s) ago","%1 hour(s) ago",Amasty_AdvancedReview
+"%1 minute(s) ago","%1 minute(s) ago",Amasty_AdvancedReview
+"%1 second(s) ago","%1 second(s) ago",Amasty_AdvancedReview
+recently,recently,Amasty_AdvancedReview
+"We can't change item right now. Please review the log and try again.","We can't change item right now. Please review the log and try again.",Amasty_AdvancedReview
+"A total of %1 record(s) have been changed.","A total of %1 record(s) have been changed.",Amasty_AdvancedReview
+"No records have been changed.","No records have been changed.",Amasty_AdvancedReview
+"Something went wrong","Something went wrong",Amasty_AdvancedReview
+"You deleted the comment.","You deleted the comment.",Amasty_AdvancedReview
+"We can't find a comment to delete.","We can't find a comment to delete.",Amasty_AdvancedReview
+"Edit Comment #%1 by %2","Edit Comment #%1 by %2",Amasty_AdvancedReview
+"This comment no longer exists.","This comment no longer exists.",Amasty_AdvancedReview
+Comments,Комментарии,Amasty_AdvancedReview
+"We can't delete item right now. Please review the log and try again.","We can't delete item right now. Please review the log and try again.",Amasty_AdvancedReview
+"A total of %1 record(s) have been deleted.","A total of %1 record(s) have been deleted.",Amasty_AdvancedReview
+"No records have been deleted.","No records have been deleted.",Amasty_AdvancedReview
+"Comment has been saved.","Comment has been saved.",Amasty_AdvancedReview
+"The wrong item is specified.","The wrong item is specified.",Amasty_AdvancedReview
+"Review Reminder","Review Reminder",Amasty_AdvancedReview
+Reminder,Reminder,Amasty_AdvancedReview
+"A total of %1 email(s) have been sent.","A total of %1 email(s) have been sent.",Amasty_AdvancedReview
+"No records have been sent.","No records have been sent.",Amasty_AdvancedReview
+"Please fill test email in module configuration","Please fill test email in module configuration",Amasty_AdvancedReview
+"A total of %1 email(s) have been sent to %2.","A total of %1 email(s) have been sent to %2.",Amasty_AdvancedReview
+"Please select review(s).","Please select review(s).",Amasty_AdvancedReview
+"A total of %1 record(s) have been approved for All store views.","A total of %1 record(s) have been approved for All store views.",Amasty_AdvancedReview
+"Something went wrong while updating these review(s).","Something went wrong while updating these review(s).",Amasty_AdvancedReview
+"Sorry. There is a problem with your Comment Request.","Sorry. There is a problem with your Comment Request.",Amasty_AdvancedReview
+"You submitted your review for moderation.","You submitted your review for moderation.",Amasty_AdvancedReview
+Forbidden,Forbidden,Amasty_AdvancedReview
+"Form key is not valid. Please try to reload the page.","Form key is not valid. Please try to reload the page.",Amasty_AdvancedReview
+"Your session was expired. Please refresh this page and try again.","Your session was expired. Please refresh this page and try again.",Amasty_AdvancedReview
+"%1 is a required field.","%1 is a required field.",Amasty_AdvancedReview
+"Sorry. There is a problem with your Vote Request.","Sorry. There is a problem with your Vote Request.",Amasty_AdvancedReview
+Success.,Success.,Amasty_AdvancedReview
+"You have been unsubscribed from comment messages.","You have been unsubscribed from comment messages.",Amasty_AdvancedReview
+"Something went wrong while unsubscribing you.","Something went wrong while unsubscribing you.",Amasty_AdvancedReview
+"You unsubscribed.","You unsubscribed.",Amasty_AdvancedReview
+"Verified Buyer","Уже купил",Amasty_AdvancedReview
+"I recommend this product","I recommend this product",Amasty_AdvancedReview
+"Read more","Read more",Amasty_AdvancedReview
+"with %1 stars | ","with %1 stars | ",Amasty_AdvancedReview
+"Show All","Show All",Amasty_AdvancedReview
+"Advanced Product Reviews Coupon for %1","Advanced Product Reviews Coupon for %1",Amasty_AdvancedReview
+"It will take only a few minutes, just click the 'Leave a review' button below.<br>To make the process more pleasant we are happy to grant you a discount coupon code, which can already be used for your next purchase. Here it is: %1 (%2).","It will take only a few minutes, just click the 'Leave a review' button below.<br>To make the process more pleasant we are happy to grant you a discount coupon code, which can already be used for your next purchase. Here it is: %1 (%2).",Amasty_AdvancedReview
+"It will take only a few minutes, just click the 'Leave a review' button below.","It will take only a few minutes, just click the 'Leave a review' button below.",Amasty_AdvancedReview
+"It will take only a few minutes, just click the 'Leave a review' button below. And please kindly keep in mind, that you will receive a discount coupon after your review is approved.","It will take only a few minutes, just click the 'Leave a review' button below. And please kindly keep in mind, that you will receive a discount coupon after your review is approved.",Amasty_AdvancedReview
+"please kindly keep in mind that it will expire in %1 days","please kindly keep in mind that it will expire in %1 days",Amasty_AdvancedReview
+"please keep in mind that it expires today","please keep in mind that it expires today",Amasty_AdvancedReview
+"\r\nError when deleting rule #%s : %s","\r\nError when deleting rule #%s : %s",Amasty_AdvancedReview
+"Advanced Product Reviews Coupon for %","Advanced Product Reviews Coupon for %",Amasty_AdvancedReview
+"We can`t find reminder data to send email","We can`t find reminder data to send email",Amasty_AdvancedReview
+"Waiting for Sending","Waiting for Sending",Amasty_AdvancedReview
+"Sent Successfully","Sent Successfully",Amasty_AdvancedReview
+"Sending Failed","Sending Failed",Amasty_AdvancedReview
+Canceled,Canceled,Amasty_AdvancedReview
+"Email was not sent. Customer was unsubscribed.","Email was not sent. Customer was unsubscribed.",Amasty_AdvancedReview
+"Email was not sent. Customer belongs to Customer Group disabled in Review Reminder settings.","Email was not sent. Customer belongs to Customer Group disabled in Review Reminder settings.",Amasty_AdvancedReview
+Recent,Recent,Amasty_AdvancedReview
+Random,Random,Amasty_AdvancedReview
+"Unable to save comment with ID %1. Error: %2","Unable to save comment with ID %1. Error: %2",Amasty_AdvancedReview
+"Unable to save new comment. Error: %1","Unable to save new comment. Error: %1",Amasty_AdvancedReview
+"Comment with specified ID ""%1"" not found.","Comment with specified ID ""%1"" not found.",Amasty_AdvancedReview
+"Unable to remove comment with ID %1. Error: %2","Unable to remove comment with ID %1. Error: %2",Amasty_AdvancedReview
+"Unable to remove comment. Error: %1","Unable to remove comment. Error: %1",Amasty_AdvancedReview
+"Unable to save image with ID %1. Error: %2","Unable to save image with ID %1. Error: %2",Amasty_AdvancedReview
+"Unable to save new image. Error: %1","Unable to save new image. Error: %1",Amasty_AdvancedReview
+"Rule with specified ID ""%1"" not found.","Rule with specified ID ""%1"" not found.",Amasty_AdvancedReview
+"Unable to remove image with ID %1. Error: %2","Unable to remove image with ID %1. Error: %2",Amasty_AdvancedReview
+"Unable to remove image. Error: %1","Unable to remove image. Error: %1",Amasty_AdvancedReview
+"Unable to save reminder item with ID %1. Error: %2","Unable to save reminder item with ID %1. Error: %2",Amasty_AdvancedReview
+"Unable to save new reminder item. Error: %1","Unable to save new reminder item. Error: %1",Amasty_AdvancedReview
+"Reminder item with specified ID ""%1"" not found.","Reminder item with specified ID ""%1"" not found.",Amasty_AdvancedReview
+"Unable to remove reminder item with ID %1. Error: %2","Unable to remove reminder item with ID %1. Error: %2",Amasty_AdvancedReview
+"Unable to remove reminder item. Error: %1","Unable to remove reminder item. Error: %1",Amasty_AdvancedReview
+"Unable to save unsubscribe with ID %1. Error: %2","Unable to save unsubscribe with ID %1. Error: %2",Amasty_AdvancedReview
+"Unable to save new unsubscribe. Error: %1","Unable to save new unsubscribe. Error: %1",Amasty_AdvancedReview
+"Unsubscribe with specified ID ""%1"" not found.","Unsubscribe with specified ID ""%1"" not found.",Amasty_AdvancedReview
+"Unable to remove unsubscribe with ID %1. Error: %2","Unable to remove unsubscribe with ID %1. Error: %2",Amasty_AdvancedReview
+"Unable to remove unsubscribe. Error: %1","Unable to remove unsubscribe. Error: %1",Amasty_AdvancedReview
+"Unable to save vote with ID %1. Error: %2","Unable to save vote with ID %1. Error: %2",Amasty_AdvancedReview
+"Unable to save new vote. Error: %1","Unable to save new vote. Error: %1",Amasty_AdvancedReview
+"Vote with specified ID ""%1"" not found.","Vote with specified ID ""%1"" not found.",Amasty_AdvancedReview
+"Unable to remove vote with ID %1. Error: %2","Unable to remove vote with ID %1. Error: %2",Amasty_AdvancedReview
+"Unable to remove vote. Error: %1","Unable to remove vote. Error: %1",Amasty_AdvancedReview
+"%1 (Default)","%1 (Default)",Amasty_AdvancedReview
+No,No,Amasty_AdvancedReview
+"Yes (Instantly)","Yes (Instantly)",Amasty_AdvancedReview
+"Yes (Daily)","Yes (Daily)",Amasty_AdvancedReview
+Pending,Pending,Amasty_AdvancedReview
+Approved,Approved,Amasty_AdvancedReview
+Rejected,Rejected,Amasty_AdvancedReview
+"Percent of product price discount","Percent of product price discount",Amasty_AdvancedReview
+"Fixed amount discount","Fixed amount discount",Amasty_AdvancedReview
+"Fixed amount discount for whole cart","Fixed amount discount for whole cart",Amasty_AdvancedReview
+"Verified Buyers","От купивших этот товар",Amasty_AdvancedReview
+Recommended,Recommended,Amasty_AdvancedReview
+"With images","С фото",Amasty_AdvancedReview
+"Once per product","Once per product",Amasty_AdvancedReview
+"Once per customer","Once per customer",Amasty_AdvancedReview
+"Once per order","Once per order",Amasty_AdvancedReview
+"Not Logged In","Not Logged In",Amasty_AdvancedReview
+Yes,Yes,Amasty_AdvancedReview
+Date,Date,Amasty_AdvancedReview
+Rating,Рейтинг,Amasty_AdvancedReview
+Helpfulness,Самые полезные,Amasty_AdvancedReview
+"Review Grid Template","Review Grid Template",Amasty_AdvancedReview
+"Products Images and Names Template (vert.)","Products Images and Names Template (vert.)",Amasty_AdvancedReview
+"Admin Answer Section","Admin Answer Section",Amasty_AdvancedReview
+Answer,Answer,Amasty_AdvancedReview
+"Send to Customer","Send to Customer",Amasty_AdvancedReview
+"Customer Images","Customer Images",Amasty_AdvancedReview
+"Add new images","Add new images",Amasty_AdvancedReview
+"A client who already purchased the product.","A client who already purchased the product.",Amasty_AdvancedReview
+Advantages,Advantages,Amasty_AdvancedReview
+like_about,like_about,Amasty_AdvancedReview
+Disadvantages,Disadvantages,Amasty_AdvancedReview
+not_like_about,not_like_about,Amasty_AdvancedReview
+"%1 people found this helpful; %2 found this unhelpful.","%1 пользователей считают этот отзыв полезным; %2 пользователей не считают этот отзыв полезным.",Amasty_AdvancedReview
+"Approve for All Store Views","Approve for All Store Views",Amasty_AdvancedReview
+"Are you sure?","Are you sure?",Amasty_AdvancedReview
+"Add your photo","Добавьте фото к своему отзыву",Amasty_AdvancedReview
+GDPR,GDPR,Amasty_AdvancedReview
+"Email Address","Email Address",Amasty_AdvancedReview
+"Please agree to the Privacy Policy","Please agree to the Privacy Policy",Amasty_AdvancedReview
+"Please enter review images.","Please enter review images.",Amasty_AdvancedReview
+"An error occurred while uploading image.","An error occurred while uploading image.",Amasty_AdvancedReview
+"please kindly keep in mind that it will expire in 5 days","please kindly keep in mind that it will expire in 5 days",Amasty_AdvancedReview
+"Review image","Review image",Amasty_AdvancedReview
+"Remove image","Remove image",Amasty_AdvancedReview
+Remove,Remove,Amasty_AdvancedReview
+"Leave a review","Leave a review",Amasty_AdvancedReview
+"Author: ","Author: ",Amasty_AdvancedReview
+"Title: ","Title: ",Amasty_AdvancedReview
+"Review: ","Review: ",Amasty_AdvancedReview
+View,View,Amasty_AdvancedReview
+Showing,Showing,Amasty_AdvancedReview
+comments,комментарии,Amasty_AdvancedReview
+"Leave your comment","Leave your comment",Amasty_AdvancedReview
+Nickname*,Nickname*,Amasty_AdvancedReview
+Email*,Email*,Amasty_AdvancedReview
+Comment*,Comment*,Amasty_AdvancedReview
+"Talk about why you like this review, or ask a question.","Talk about why you like this review, or ask a question.",Amasty_AdvancedReview
+"Add Comment","Add Comment",Amasty_AdvancedReview
+"Was this review helpful?","Был ли этот отзыв полезен?",Amasty_AdvancedReview
+"people found this helpful","пользователей считают этот отзыв полезным",Amasty_AdvancedReview
+"Customer Reviews","Customer Reviews",Amasty_AdvancedReview
+"Write a review","Написать отзыв",Amasty_AdvancedReview
+"Share your thoughts with other customers","Share your thoughts with other customers",Amasty_AdvancedReview
+"Top customer reviews","Самые полезные отзывы",Amasty_AdvancedReview
+"%1 stars","%1 stars",Amasty_AdvancedReview
+"%1 star","%1 star",Amasty_AdvancedReview
+"Response from store","Response from store",Amasty_AdvancedReview
+Reply,Ответить,Amasty_AdvancedReview
+"No reviews","No reviews",Amasty_AdvancedReview
+"Sort By","Сортировать по",Amasty_AdvancedReview
+"Please select an option","Пожалуйста, выберите вариант",Amasty_AdvancedReview
+"Set Ascending Direction","Set Ascending Direction",Amasty_AdvancedReview
+"Set Descending Direction","Set Descending Direction",Amasty_AdvancedReview
+reviews,reviews,Amasty_AdvancedReview
+"More info","More info",Amasty_AdvancedReview
+"of customers recommend this product","of customers recommend this product",Amasty_AdvancedReview
+" star"," star",Amasty_AdvancedReview
+" stars"," stars",Amasty_AdvancedReview
+"Review by ","Review by ",Amasty_AdvancedReview
+"See all reviews","See all reviews",Amasty_AdvancedReview
+"Email alert for new reviews","Email alert for new reviews",Amasty_AdvancedReview
+"Hello,","Hello,",Amasty_AdvancedReview
+"This is an automatic notification about new review(s) made. ","This is an automatic notification about new review(s) made. ",Amasty_AdvancedReview
+Reviews:,Reviews:,Amasty_AdvancedReview
+"Thank you!","Thank you!",Amasty_AdvancedReview
+Hello,Hello,Amasty_AdvancedReview
+"You have a new comment on your product review ","You have a new comment on your product review ",Amasty_AdvancedReview
+"Your review:","Your review:",Amasty_AdvancedReview
+Comment:,Comment:,Amasty_AdvancedReview
+"Click ","Click ",Amasty_AdvancedReview
+link,link,Amasty_AdvancedReview
+" to see the response"," to see the response",Amasty_AdvancedReview
+"Best Regards","Best Regards",Amasty_AdvancedReview
+Team,Team,Amasty_AdvancedReview
+"Do not receive similar emails","Do not receive similar emails",Amasty_AdvancedReview
+"Thank you for the feedback left! We’d love to inform you that the review was approved successfully.","Thank you for the feedback left! We’d love to inform you that the review was approved successfully.",Amasty_AdvancedReview
+"Here is the promised coupon code: ","Here is the promised coupon code: ",Amasty_AdvancedReview
+"This discount coupon can be used for your next purchase with us (","This discount coupon can be used for your next purchase with us (",Amasty_AdvancedReview
+"Hope to see you soon!","Hope to see you soon!",Amasty_AdvancedReview
+"You have a new response on your product review","You have a new response on your product review",Amasty_AdvancedReview
+"Admin answer:","Admin answer:",Amasty_AdvancedReview
+"Thank you for your recent purchase with ","Thank you for your recent purchase with ",Amasty_AdvancedReview
+"We’d love to know your thoughts on the product(s) you've bought! So please share your unique experience with other shoppers.","We’d love to know your thoughts on the product(s) you've bought! So please share your unique experience with other shoppers.",Amasty_AdvancedReview
+"We really appreciate your feedback and hope to see you soon!","We really appreciate your feedback and hope to see you soon!",Amasty_AdvancedReview
+"Amasty Advanced Review Reminder","Amasty Advanced Review Reminder",Amasty_AdvancedReview
+"Amasty Advanced Review Comments","Amasty Advanced Review Comments",Amasty_AdvancedReview
+"Review Comments","Review Comments",Amasty_AdvancedReview
+"Advanced Reviews","Advanced Reviews",Amasty_AdvancedReview
+Information,Information,Amasty_AdvancedReview
+"General settings","General settings",Amasty_AdvancedReview
+"Enable 'Helpful' Control","Enable 'Helpful' Control",Amasty_AdvancedReview
+"Set 'Yes' to allow people specify if they found the review helpful or unhelpful.","Set 'Yes' to allow people specify if they found the review helpful or unhelpful.",Amasty_AdvancedReview
+"Enable `I recommend this product`","Enable `I recommend this product`",Amasty_AdvancedReview
+"Set 'Yes' to allow buyers check `I recommend this product` checkbox and show this recommendation in review.","Set 'Yes' to allow buyers check `I recommend this product` checkbox and show this recommendation in review.",Amasty_AdvancedReview
+"Enable Pros and Cons","Enable Pros and Cons",Amasty_AdvancedReview
+"Set 'Yes' to allow buyers to add product advantages and disadvantages.","Set 'Yes' to allow buyers to add product advantages and disadvantages.",Amasty_AdvancedReview
+"Allow Admin to Comment on Review","Allow Admin to Comment on Review",Amasty_AdvancedReview
+"Allow Guests to Submit Review","Allow Guests to Submit Review",Amasty_AdvancedReview
+"Set 'No' to allow only logged in users to leave a review.","Set 'No' to allow only logged in users to leave a review.",Amasty_AdvancedReview
+"Show 'Email' Field for Guests","Show 'Email' Field for Guests",Amasty_AdvancedReview
+"Set' Yes' to enable email field for guest to contact them later","Set' Yes' to enable email field for guest to contact them later",Amasty_AdvancedReview
+"Enabled GDPR Consent","Enabled GDPR Consent",Amasty_AdvancedReview
+"Сonsent Text","Сonsent Text",Amasty_AdvancedReview
+"Enable Sorting By","Enable Sorting By",Amasty_AdvancedReview
+"Press CTRL+mouse to select multiple values.","Press CTRL+mouse to select multiple values.",Amasty_AdvancedReview
+"Enable Filtering By","Enable Filtering By",Amasty_AdvancedReview
+"Reviews per Page","Reviews per Page",Amasty_AdvancedReview
+Images,Images,Amasty_AdvancedReview
+"Allow Users to Upload Images","Allow Users to Upload Images",Amasty_AdvancedReview
+"Image Field is Required","Image Field is Required",Amasty_AdvancedReview
+"Review Image Width","Review Image Width",Amasty_AdvancedReview
+"Images to Show","Images to Show",Amasty_AdvancedReview
+"If image number exceeds this limit, a line of images turns into a slider. Mobile version has slider enabled by default. Set to 0 disable slider on both mobile and desktop.","If image number exceeds this limit, a line of images turns into a slider. Mobile version has slider enabled by default. Set to 0 disable slider on both mobile and desktop.",Amasty_AdvancedReview
+"Review Commenting","Review Commenting",Amasty_AdvancedReview
+Enable,Enable,Amasty_AdvancedReview
+"Set 'Yes' to allow your customers comment on already approved reviews.","Set 'Yes' to allow your customers comment on already approved reviews.",Amasty_AdvancedReview
+"Allow Guests to Comment on Review","Allow Guests to Comment on Review",Amasty_AdvancedReview
+"Set 'No' to allow only logged in users to leave a comment.","Set 'No' to allow only logged in users to leave a comment.",Amasty_AdvancedReview
+"Automatically Approve Comments","Automatically Approve Comments",Amasty_AdvancedReview
+"Set 'No' to approve each comment manually from admin panel.","Set 'No' to approve each comment manually from admin panel.",Amasty_AdvancedReview
+"Email Sender","Email Sender",Amasty_AdvancedReview
+"Email Template","Email Template",Amasty_AdvancedReview
+"Notify Customer about Admin Reply","Notify Customer about Admin Reply",Amasty_AdvancedReview
+"Enable Review Reminder","Enable Review Reminder",Amasty_AdvancedReview
+"Order Status","Order Status",Amasty_AdvancedReview
+"Please specify the Order Status for Review Reminder to be sent after. It will work based on Order Creation Date If the Order Status is not specified.","Please specify the Order Status for Review Reminder to be sent after. It will work based on Order Creation Date If the Order Status is not specified.",Amasty_AdvancedReview
+"Disable for Customer Group","Disable for Customer Group",Amasty_AdvancedReview
+"Customers from selected Customer Groups won’t receive the reminder.","Customers from selected Customer Groups won’t receive the reminder.",Amasty_AdvancedReview
+"Send Reminders","Send Reminders",Amasty_AdvancedReview
+"Admin is able to send Reminder Emails manually from Review Reminder grid without limit","Admin is able to send Reminder Emails manually from Review Reminder grid without limit",Amasty_AdvancedReview
+"Send Reminder Email after, Day(s)","Send Reminder Email after, Day(s)",Amasty_AdvancedReview
+"Test Email","Test Email",Amasty_AdvancedReview
+"Discount Coupons","Discount Coupons",Amasty_AdvancedReview
+Enabled,Enabled,Amasty_AdvancedReview
+"Publish Review to Activate Coupon","Publish Review to Activate Coupon",Amasty_AdvancedReview
+"Allow to use coupon code only after review is published and approved.","Allow to use coupon code only after review is published and approved.",Amasty_AdvancedReview
+"Discount Type","Discount Type",Amasty_AdvancedReview
+"Discount Amount","Discount Amount",Amasty_AdvancedReview
+"Expire Coupon in (days)","Expire Coupon in (days)",Amasty_AdvancedReview
+"Note: if set to 0, coupon can be used only ‘today’ (i.e., the day of coupon receipt).","Note: if set to 0, coupon can be used only ‘today’ (i.e., the day of coupon receipt).",Amasty_AdvancedReview
+"Coupon Uses","Coupon Uses",Amasty_AdvancedReview
+"Note: if set to 0, the coupon can be used unlimited amount of times.","Note: if set to 0, the coupon can be used unlimited amount of times.",Amasty_AdvancedReview
+"Uses per Customer","Uses per Customer",Amasty_AdvancedReview
+"Usage limit enforced for logged in customers only.","Usage limit enforced for logged in customers only.",Amasty_AdvancedReview
+"Apply for Customer Group Only","Apply for Customer Group Only",Amasty_AdvancedReview
+"The setting covers only coupon application. Generated coupon will be sent to all customer groups, but only chosen customer groups will be able to apply it. Please kindly keep that in mind and modify the email template in accordance to the setting configuration to avoid customers' confusion.","The setting covers only coupon application. Generated coupon will be sent to all customer groups, but only chosen customer groups will be able to apply it. Please kindly keep that in mind and modify the email template in accordance to the setting configuration to avoid customers' confusion.",Amasty_AdvancedReview
+"Min Order Amount","Min Order Amount",Amasty_AdvancedReview
+"Admin Notifications","Admin Notifications",Amasty_AdvancedReview
+"Send Email Reports for New Reviews","Send Email Reports for New Reviews",Amasty_AdvancedReview
+"Email Template to Notify Admin","Email Template to Notify Admin",Amasty_AdvancedReview
+"Admin Email Address","Admin Email Address",Amasty_AdvancedReview
+"Comma separated Emails, no spaces.","Comma separated Emails, no spaces.",Amasty_AdvancedReview
+"Amasty Catalog Advanced Reviews","Amasty Catalog Advanced Reviews",Amasty_AdvancedReview
+"Powered by Amasty Advanced Reviews extension.","Powered by Amasty Advanced Reviews extension.",Amasty_AdvancedReview
+Header,Header,Amasty_AdvancedReview
+"Display Page Control","Display Page Control",Amasty_AdvancedReview
+"Number of Products per Page","Number of Products per Page",Amasty_AdvancedReview
+"Number of Reviews to Show","Number of Reviews to Show",Amasty_AdvancedReview
+"The number of reviews is set to 10 by default.","The number of reviews is set to 10 by default.",Amasty_AdvancedReview
+"Reviews from Current Category Only","Reviews from Current Category Only",Amasty_AdvancedReview
+"Use on Categories.","Use on Categories.",Amasty_AdvancedReview
+"Reviews of Products which belong to the Same Categories Only","Reviews of Products which belong to the Same Categories Only",Amasty_AdvancedReview
+"Use on Products.","Use on Products.",Amasty_AdvancedReview
+"Reviews Type","Reviews Type",Amasty_AdvancedReview
+"Do not Display Reviews with Average Rating less than","Do not Display Reviews with Average Rating less than",Amasty_AdvancedReview
+"Enable Slider","Enable Slider",Amasty_AdvancedReview
+Template,Template,Amasty_AdvancedReview
+Comment,Comment,Amasty_AdvancedReview
+Back,Back,Amasty_AdvancedReview
+General,General,Amasty_AdvancedReview
+Name,Name,Amasty_AdvancedReview
+E-Mail,E-Mail,Amasty_AdvancedReview
+Status,Status,Amasty_AdvancedReview
+Approve,Approve,Amasty_AdvancedReview
+"Are you sure you want to approve?","Are you sure you want to approve?",Amasty_AdvancedReview
+Inactivate,Inactivate,Amasty_AdvancedReview
+ID,ID,Amasty_AdvancedReview
+Review,Review,Amasty_AdvancedReview
+Nickname,Nickname,Amasty_AdvancedReview
+Email,Email,Amasty_AdvancedReview
+"Created At","Created At",Amasty_AdvancedReview
+"Updated At","Updated At",Amasty_AdvancedReview
+Disapprove,Disapprove,Amasty_AdvancedReview
+Edit,Edit,Amasty_AdvancedReview
+"Delete items","Delete items",Amasty_AdvancedReview
+"Are you sure you wan't to delete selected items?","Are you sure you wan't to delete selected items?",Amasty_AdvancedReview
+Cancel,Cancel,Amasty_AdvancedReview
+"Cancel items","Cancel items",Amasty_AdvancedReview
+"Are you sure you wan't to cancel selected items?","Are you sure you wan't to cancel selected items?",Amasty_AdvancedReview
+Send,Send,Amasty_AdvancedReview
+"Send Emails","Send Emails",Amasty_AdvancedReview
+"Are you sure you wan't to Send selected items?","Are you sure you wan't to Send selected items?",Amasty_AdvancedReview
+"Send Test Email","Send Test Email",Amasty_AdvancedReview
+"Send Test Emails","Send Test Emails",Amasty_AdvancedReview
+"Order #","Order #",Amasty_AdvancedReview
+"Product Names","Product Names",Amasty_AdvancedReview
+"Store View","Store View",Amasty_AdvancedReview
+"Date Created","Date Created",Amasty_AdvancedReview
+"Date of Sending","Date of Sending",Amasty_AdvancedReview
